@@ -18,6 +18,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import app.thutucgplx.dht.com.thutucgiaypheplaixe.Common.CommonUtils;
+import app.thutucgplx.dht.com.thutucgiaypheplaixe.Common.Constanst;
 import app.thutucgplx.dht.com.thutucgiaypheplaixe.Common.PreferenceUtils;
 import app.thutucgplx.dht.com.thutucgiaypheplaixe.R;
 import app.thutucgplx.dht.com.thutucgiaypheplaixe.adapter.ListSubTopicGridAdapter;
@@ -83,9 +84,14 @@ public class ListSubTopicGridActivity extends BaseActivity {
         AdView mAdView = (AdView) findViewById(R.id.adView);
         if (CommonUtils.isOnline(getBaseContext())) {
             mAdView.setVisibility(View.VISIBLE);
-            AdRequest adRequest = new AdRequest.Builder()
-//                    .addTestDevice(CommonUtils.getDeviceId(getBaseContext()))
-                    .build();
+            AdRequest adRequest;
+            if(!Constanst.isRelease)
+                adRequest = new AdRequest.Builder()
+                        .addTestDevice(CommonUtils.getDeviceId(getBaseContext()))
+                        .build();
+            else
+                adRequest = new AdRequest.Builder()
+                        .build();
             mAdView.loadAd(adRequest);
         }
         else{

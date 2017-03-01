@@ -99,8 +99,14 @@ public class SplashActivity extends BaseActivity implements ResponseCallbackInte
                 ((TextView) findViewById(R.id.test)).setText(result.toString());
                 // Save JSON from server to Internal Files
                 FullTopics fullTopics = new FullTopics(getBaseContext(), (JSONArray)result);
-                startActivity(new Intent(SplashActivity.this, MainActivity.class));
-                finish();
+                Handler handler = new Handler();
+                handler.postDelayed(new Runnable() {
+                    @Override
+                    public void run() {
+                        startActivity(new Intent(SplashActivity.this, MainActivity.class));
+                        finish();
+                    }
+                }, 3000);
                 break;
         }
     }
@@ -132,8 +138,14 @@ public class SplashActivity extends BaseActivity implements ResponseCallbackInte
 
         @Override
         protected void onPostExecute(String result) {
-            startActivity(new Intent(SplashActivity.this, MainActivity.class));
-            finish();
+            Handler handler = new Handler();
+            handler.postDelayed(new Runnable() {
+                @Override
+                public void run() {
+                    startActivity(new Intent(SplashActivity.this, MainActivity.class));
+                    finish();
+                }
+            }, 3000);
         }
 
     }

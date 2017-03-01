@@ -85,9 +85,14 @@ public class ContentDetailMultiTaskActivity extends BaseActivity {
         AdView mAdView = (AdView) findViewById(R.id.adView);
         if (CommonUtils.isOnline(getBaseContext())) {
             mAdView.setVisibility(View.VISIBLE);
-            AdRequest adRequest = new AdRequest.Builder()
-//                    .addTestDevice(CommonUtils.getDeviceId(getBaseContext()))
-                    .build();
+            AdRequest adRequest;
+            if(!Constanst.isRelease)
+                adRequest = new AdRequest.Builder()
+                        .addTestDevice(CommonUtils.getDeviceId(getBaseContext()))
+                        .build();
+            else
+                adRequest = new AdRequest.Builder()
+                        .build();
             mAdView.loadAd(adRequest);
         }
         else{

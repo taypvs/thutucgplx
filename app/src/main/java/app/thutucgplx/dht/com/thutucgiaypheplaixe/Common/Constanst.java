@@ -4,7 +4,9 @@ package app.thutucgplx.dht.com.thutucgiaypheplaixe.Common;
  * Created by phamvietsontay on 11/27/16.
  */
 public class Constanst {
-    public static final int NUM_OF_TOPICS = 10;
+    public static boolean isRelease = false;
+
+    public static final int NUM_OF_TOPICS = 4;
     public static final String TYPE_1 = "nhieuthongtin"; // Default Text type
     public static final String TYPE_2 = "hinhanh"; // Image Signal type
     public static final String TYPE_3 = "motthongtin"; // 1 Trang thong tin
@@ -21,7 +23,7 @@ public class Constanst {
 
     // API CONSTANST
 //    public static String SERVER = "https://traffic.dethoima.info/api";
-    public static String SERVER = "http://camnangnguoilaixe.com/public/api";
+    public static String SERVER = "http://camnangnguoilaixe.com/thutuc/public/api";
     public static String API_TEST = "http://api.androidhive.info/volley/person_object.json";
     public static String API_TEST2 = "https://httpbin.org/get";
     public static String API_GET_FULL_INFO = SERVER + "?cmd=get_all";
