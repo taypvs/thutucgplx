@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ThutucGiayPhepLaiXe.iml" filepath="$PROJECT_DIR$/ThutucGiayPhepLaiXe.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mupdflibrary/mupdflibrary.iml" filepath="$PROJECT_DIR$/mupdflibrary/mupdflibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mupdf-android-master/mupdf-android-master.iml" filepath="$PROJECT_DIR$/mupdf-android-master/mupdf-android-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thutucgplx.iml" filepath="$PROJECT_DIR$/thutucgplx.iml" />
     </modules>
   </component>
 </project>
-

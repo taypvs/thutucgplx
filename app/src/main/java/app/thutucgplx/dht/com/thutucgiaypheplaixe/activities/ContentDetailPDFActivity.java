@@ -91,7 +91,7 @@ public class ContentDetailPDFActivity extends BaseActivity {
 
                     };
 
-                    mDocview.setAdapter(new MuPDFPageAdapter(this, core));
+                    mDocview.setAdapter(new MuPDFPageAdapter(this, null, core));
                     pdfView.addView(mDocview);
                     findViewById(R.id.print_btn).setVisibility(View.VISIBLE);
                     findViewById(R.id.print_btn).setOnClickListener(new View.OnClickListener() {

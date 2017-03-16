@@ -1,862 +1,464 @@
 [
-{
-id: "5",
-name: "Hệ Thống GPLX",
-parent_id: null,
-type_id: "1",
-version: "1",
-icon: "icon_main_he_thong_gplx",
-position: "1",
-count: "4",
-type_name: "NhieuThongTin",
-small_topic: [
-{
-id: "4",
-title: "GIẤY PHÉP LÁI XE CỦA VIỆT NAM",
-category_id: "5",
-type_id: "1",
-position: "1",
-type_name: "Text",
-content: [
-{
-id: "3",
-post_id: "4",
-title: "GIẤY PHÉP LÁI XE DÂN SỰ",
-detail: "<p>Giấy phép lái xe là chứng chỉ cấp cho người điều khiển xe cơ giới (người lái xe) để được phép lái một hoặc một số loại xe cơ giới.</p>
-<p>Giấy phép lái xe có giá trị sử dụng trong phạm vi lãnh thổ Việt Nam và lãnh thổ của nước hoặc vùng lãnh thổ mà Việt Nam ký cam kết công nhận giấy phép lái xe của nhau.</p>
-<p>Căn cứ vào kiểu loại, công suất động cơ, tải trọng và công dụng của xe cơ giới, giấy phép lái xe được phân loại thành giấy phép lái xe không thời hạn và giấy phép lái xe có thời hạn.</p>
-<p>Việc lái xe mà không có giấy phép lái xe hợp lệ, quá hạn sử dụng, lái xe không đúng loại xe ghi trong giấy phép lái xe là vi phạm pháp luật.</p>",
-image: "",
-position: "0"
-},
-{
-id: "4",
-post_id: "4",
-title: "Thông tư số: 58/2015/TT-BGTVT ngày 20/10/2015 của Bộ Giao thông vận tải",
-detail: "<p><strong>HỆ THỐNG GIẤY PHÉP LÁI XE</strong></p>
-<p><strong>Điều 24. Phân hạng giấy phép lái</strong><strong> xe</strong></p>
-<p>1. Hạng A1 cấp cho</p>
-<p>a) Người lái xe để điều khiển xe mô tô hai bánh có dung tích xy lanh từ 50 cm<sup>3</sup> đến dưới 175 cm<sup>3</sup>;</p>
-<p>b) Người khuyết tật điều khiển xe mô tô ba bánh dùng cho người khuyết tật.</p>
-<p>2. Hạng A2 cấp cho</p>
-<p>Người lái xe để điều khiển xe mô tô hai bánh có dung tích xy lanh từ 175 cm<sup>3</sup> trở lên và các loại xe quy định cho giấy phép lái xe hạng A1.</p>
-<p>3. Hạng A3 cấp cho</p>
-<p>Người lái xe để điều khiển xe mô tô ba bánh, các loại xe quy định cho giấy phép lái xe hạng A1 và các xe tương tự.</p>
-<p>4. Hạng A4 cấp cho</p>
-<p>Người lái xe để điều khiển các loại máy kéo nhỏ có trọng tải đến 1.000 kg.</p>
-<p>5. Hạng B1 số tự động cấp cho</p>
-<p>Người không hành nghề lái xe để điều khiển các loại xe sau đây:</p>
-<p>a) Ô tô số tự động chở người đến 9 chỗ ngồi, kể cả chỗ ngồi cho người lái xe;</p>
-<p>b) Ô tô tải, kể cả ô tô tải chuyên dùng số tự động có trọng tải thiết kế dưới500 kg.</p>
-<p>6. Hạng B1 cấp cho</p>
-<p>Người không hành nghề lái xe để điều khiển các loại xe sau đây:</p>
-<p>a) Ô tô chở người đến 9 chỗ ngồi, kể cả chỗ ngồi cho người lái xe;</p>
-<p>b) Ô tô tải, kể cả ô tô tải chuyên dùng có trọng tải thiết kế dưới 3.500 kg;</p>
-<p>c) Máy kéo kéo một rơ moóc có trọng tải thiết kế dưới 3.500 kg.</p>
-<p>7. Hạng B2 cấp cho</p>
-<p>Người hành nghề lái xe để điều khiển các loại xe sau đây:</p>
-<p>a) Ô tô chuyên dùng có trọng tải thiết kế dưới 3.500 kg;</p>
-<p>b) Các loại xe quy định cho giấy phép lái xe hạng B1.</p>
-<p>8. Hạng C cấp cho</p>
-<p>Người lái xe để điều khiển các loại xe sau đây:</p>
-<p>a) Ô tô tải, kể cả ô tô tải chuyên dùng, ô tô chuyên dùng có trọng tải thiết kế từ 3500 kg trở lên;</p>
-<p>b) Máy kéo kéo một rơ moóc có trọng tải thiết kế từ 3.500 kg trở lên;</p>
-<p>c) Các loại xe quy định cho giấy phép lái xe hạng B1, B2.</p>
-<p>9. Hạng D cấp cho</p>
-<p>Người lái xe để điều khiển các loại xe sau đây:</p>
-<p>a) Ô tô chở người từ 10 đến 30 chỗ ngồi, kể cả chỗ ngồi cho người lái xe;</p>
-<p>b) Các loại xe quy định cho giấy phép lái xe hạng B1, B2 và C.</p>
-<p>10. Hạng E cấp cho</p>
-<p>Người lái xe để điều khiển các loại xe sau đây:</p>
-<p>a) Ô tô chở người trên 30 chỗ ngồi;</p>
-<p>b) Các loại xe quy định cho giấy phép lái xe hạng B1, B2, C và D.</p>
-<p>11. Người có giấy phép lái xe các hạng B1, B2, C, D và E</p>
-<p>Khi điều khiển các loại xe tương ứng được kéo thêm một rơ moóc có trọng tải thiết kế không quá 750 kg.</p>
-<p>12. Hạng F cấp cho</p>
-<p>Người đã có giấy phép lái xe các hạng B2, C, D và E để điều khiển các loại xe ô tô tương ứng kéo rơ moóc có trọng tải thiết kế lớn hơn 750 kg, sơ mi rơ moóc, ô tô khách nối toa, được quy định cụ thể như sau:</p>
-<p>a) Hạng FB2 cấp cho người lái xe ô tô để lái các loại xe quy định tại giấy phép lái xe hạng B2 có kéo rơ moóc và được điều khiển các loại xe quy định cho giấy phép lái xe hạng B1 và hạng B2;</p>
-<p>b) Hạng FC cấp cho người lái xe ô tô để lái các loại xe quy định tại giấy phép lái xe hạng C có kéo rơ moóc, ô tô đầu kéo kéo sơ mi rơ moóc và được điều khiển các loại xe quy định cho giấy phép lái xe hạng B1, B2, C và hạng FB2;</p>
-<p>c) Hạng FD cấp cho người lái xe ô tô để lái các loại xe quy định tại giấy phép lái xe hạng D có kéo rơ moóc và được điều khiển các loại xe quy định cho giấy phép lái xe hạng B1, B2, C, D và FB2;</p>
-<p>d) Hạng FE cấp cho người lái xe ô tô để lái các loại xe quy định tại giấy phép lái xe hạng E có kéo rơ moóc và được điều khiển các loại xe: ô tô chở khách nối toa và các loại xe quy định cho giấy phép lái xe hạng B1, B2, C, D, E, FB2, FD.</p>
-<p>13. Hạng giấy phép lái xe sử dụng cho </p>
-<p>Người lái xe Ô tô khách giường nằm, xe ô tô khách thành phố (sử dụng để kinh doanh vận tải hành khách bằng xe buýt) thực hiện theo quy định tại khoản 9 và khoản 10 Điều này. Số chỗ ngồi trên xe được tính theo số chỗ trên xe ô tô khách cùng kiểu loại hoặc xe ô tô có kích thước giới hạn tương đương chỉ bố trí ghế ngồi.</p>",
-image: "",
-position: "0"
-},
-{
-id: "5",
-post_id: "4",
-title: "khong tieu de",
-detail: "<p><strong>Điều 25. Thời hạn của giấy phép lái xe</strong></p>
-<p>1. Giấy phép lái xe hạng A1, A2, A3 không có thời hạn.</p>
-<p>2. Giấy phép lái xe hạng B1 có thời hạn đến khi người lái xe đủ 55 tuổi đối với nữ và đủ 60 tuổi đối với nam; trường hợp người lái xe trên 45 tuổi đối với nữ và trên 50 tuổi đối với nam thì giấy phép lái xe được cấp có thời hạn 10 năm, kể từ ngày cấp.</p>
-<p>3. Giấy phép lái xe hạng A4, B2 có thời hạn 10 năm, kể từ ngày cấp.</p>
-<p>4. Giấy phép lái xe hạng C, D, E, FB2, FC, FD, FE có thời hạn 05 năm, kể từ ngày cấp.</p>
-<p> </p>",
-image: "",
-position: "0"
-}
-]
-},
-{
-id: "7",
-title: "QUY ĐỊNH VỀ ĐỘ TUỔI, TIÊU CHUẨN SỨC KHỎE CỦA NGƯỜI LÁI XE",
-category_id: "5",
-type_id: "1",
-position: "2",
-type_name: "Text",
-content: [
-{
-id: "11",
-post_id: "7",
-title: "Luật Giao thông đường bộ số: 23/2008/QH12 ngày 13/11/2008 của Quốc Hội",
-detail: "<p><strong><span lang="VI">Điều 60. Tuổi, sức khỏe của người lái xe</span></strong></p>
-<p><strong><span lang="VI">1. Độ tuổi của người lái xe quy định</span></strong></p>
-<p><span lang="VI">a) Người đủ 16 tuổi trở lên được lái xe gắn máy có dung tích xi-lanh dưới 50 cm<sup>3</sup>;</span></p>
-<p><span lang="VI">b) Người đủ 18 tuổi trở lên được lái xe mô tô hai bánh, xe mô tô ba bánh có dung tích xi-lanh từ 50 cm<sup>3</sup> trở lên và các loại xe có kết cấu tương tự; xe ô tô tải, máy kéo có trọng tải dưới 3.500 kg; xe ô tô chở người đến 9 chỗ ngồi;</span></p>
-<p><span lang="VI">c) Người đủ 21 tuổi trở lên được lái xe ô tô tải, máy kéo có trọng tải từ 3.500 kg trở lên; lái xe hạng B2 kéo rơ moóc (FB2);</span></p>
-<p><span lang="VI">d) Người đủ 24 tuổi trở lên được lái xe ô tô chở người từ 10 đến 30 chỗ ngồi; lái xe hạng C kéo rơ moóc, sơ mi rơ moóc (FC);</span></p>
-<p><span lang="VI">đ) Người đủ 27 tuổi trở lên được lái xe ô tô chở người trên 30 chỗ ngồi; lái xe hạng D kéo rơ moóc (FD);</span></p>
-<p><span lang="VI">e) Tuổi tối đa của người lái xe ô tô chở người trên 30 chỗ ngồi là 50 tuổi đối với nữ và 55 tuổi đối với nam.</span></p>
-<p><strong><span lang="VI">2. Người lái xe phải có sức khỏe phù hợp với loại xe, công dụng của xe</span></strong></p>
-<p><span lang="VI">Bộ trưởng Bộ Y tế chủ trì, phối hợp với Bộ trưởng Bộ Giao thông vận tải quy định về tiêu chuẩn sức khỏe của người lái xe, việc khám sức khỏe định kỳ đối với người lái xe ô tô và quy định về cơ sở y tế khám sức khoẻ của người lái xe<em>.</em></span></p>
-<p><strong>* Giấy khám sức khỏe chỉ có giá trị 06 tháng</strong> kể từ ngày ký Kết luận theo Thông tư liên tịch số 24/2015 ngày 21/8/2015 liên Bộ Y tế và Bộ Giao thông vận tải.</p>",
-image: "",
-position: "0"
-}
-]
-},
-{
-id: "5",
-title: "SỬ DỤNG VÀ QUẢN LÝ GIẤY PHÉP LÁI XE",
-category_id: "5",
-type_id: "1",
-position: "3",
-type_name: "Text",
-content: [
-{
-id: "7",
-post_id: "5",
-title: "Thông tư số: 58/2015/TT-BGTVT ngày 20/10/2015 của Bộ Giao thông vận tải",
-detail: "<p><strong>Điều 45. Sử dụng và quản lý giấy phép lái xe</strong></p>
-<p>1. Mỗi người được cấp duy nhất 01 số quản lý giấy phép lái xe bằng vật liệu PET.</p>
-<p>2. Mỗi người được cấp 01 giấy phép lái xe bằng vật liệu PET không thời hạn (hạng A1, A2, A3) và 01 giấy phép lái xe bằng vật liệu PET có thời hạn (hạng A4, B1, B2, C, D, E và F).</p>
-<p>3. Người đã có giấy phép lái xe tích hợp của giấy phép lái xe có thời hạn và không thời hạn, nếu có nhu cầu tách giấy phép lái xe thì làm thủ tục tách giấy phép lái xe theo quy định tại Điều 50 của Thông tư này.</p>
-<p>4. Người có giấy phép lái xe chỉ được lái loại xe ghi trong giấy phép lái xe.</p>
-<p>5. Khi đổi, cấp lại, cấp giấy phép lái xe nâng hạng, cơ quan cấp giấy phép lái xe cắt góc giấy phép lái xe cũ và giao cho người lái xe bảo quản.</p>
-<p>6. Giấy phép lái xe phải được mang theo người khi lái xe.</p>
-<p>7. Giấy phép lái xe bị tước quyền sử dụng hoặc thu hồi theo quy định của pháp luật.</p>
-<p>8. Người có giấy phép lái xe hạng B1 muốn hành nghề lái xe và người có nhu cầu nâng hạng giấy phép lái xe phải dự khóa đào tạo và sát hạch để được cấp giấy phép lái xe mới.</p>
-<p>9. Người có giấy phép lái xe hạng B1 số tự động không được lái loại xe ô tô số cơ khí (số sàn); nếu có nhu cầu lái xe ô tô số cơ khí, phải học bổ sung và sát hạch nội dung thực hành lái xe để được cấp giấy phép lái xe hạng B1.</p>
-<p>10. Người nước ngoài hoặc người Việt Nam cư trú ở nước ngoài có nhu cầu lái xe ở Việt Nam thực hiện như sau:</p>
-<p>a) Nếu có giấy phép lái xe quốc gia phải làm thủ tục đổi sang giấy phép lái xe tương ứng của Việt Nam;</p>
-<p>b) Trường hợp điều ước quốc tế về giấy phép lái xe mà Việt Nam là thành viên có quy định khác thì áp dụng quy định của điều ước quốc tế đó.</p>
-<p>11. Giấy phép lái xe hạng A1, A2 do ngành Công an cấp trước ngày 01 tháng 8 năm 1995, bằng lái xe và giấy phép lái xe do ngành Giao thông vận tải cấp còn giá trị được tiếp tục sử dụng và chuyển đổi theo lộ trình quy định tại Điều 57 của Thông tư này.</p>
-<p>12. Người có giấy phép lái xe hạng FD, FE do ngành Giao thông vận tải cấp lần đầu trước ngày 01 tháng 7 năm 2009, nếu có nhu cầu điều khiển xe ô tô tải kéo rơ moóc hoặc xe ô tô đầu kéo kéo sơ mi rơ moóc được đổi bổ sung hạng FC.</p>
-<p>13. Giấy phép lái xe hợp lệ là giấy phép lái xe do Tổng cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải cấp, có số phôi giấy phép lái xe trùng với số phôi trong hệ thống thông tin quản lý giấy phép lái xe.</p>
-<p>14. Người tẩy xoá, làm sai lệch các thông tin trên giấy phép lái xe; sử dụng giấy phép lái xe hoặc hồ sơ lái xe giả; có hành vi gian dối khác để được đổi, cấp lại, cấp mới giấy phép lái xe, ngoài việc bị cơ quan quản lý giấy phép lái xe ra quyết định thu hồi giấy phép lái xe và hồ sơ gốc còn phải chịu trách nhiệm trước pháp luật và không được cấp giấy phép lái xe trong thời hạn 05 năm, kể từ ngày phát hiện hành vi vi phạm, nếu có nhu cầu cấp lại giấy phép lái xe phải học và sát hạch như trường hợp cấp giấy phép lái xe lần đầu.</p>
-<p> </p>
-<p> </p>",
-image: "",
-position: "0"
-}
-]
-},
-{
-id: "6",
-title: "MẪU GIẤY PHÉP LÁI XE VẬT LIỆU PET. VIỆT NAM HIỆN HÀNH",
-category_id: "5",
-type_id: "1",
-position: "4",
-type_name: "Text",
-content: [
-{
-id: "8",
-post_id: "6",
-title: "Thông tư số: 35/2010/TT-BGTVT ngày 15/11/2010 của Bộ Giao thông vận tải",
-detail: "<p>Mặt trước</p>",
-image: "gplx_pet_1",
-position: "0"
-},
-{
-id: "9",
-post_id: "6",
-title: "khong tieu de",
-detail: "<p>Mặt sau</p>",
-image: "gplx_pet_2",
-position: "0"
-},
-{
-id: "10",
-post_id: "6",
-title: "khong tieu de",
-detail: "<p>In từng hạng giấy phép lái xe cơ giới đ­ường bộ mà ng­ười lái xe đư­ợc phép điều khiển (hiển thị bằng tiếng Việt và tiếng Anh).</p>
-<p>Quy cách:</p>
-<p>Kích thư­ớc: 85,6 x 53,98 x 0,76 mm (theo Tiêu chuẩn ICAO loại ID-1);</p>
-<p>Tiêu đề "GIẤY PHÉP LÁI XE/ DRIVER’S LICENSE", "CÁC LOẠI XE CƠ GIỚI Đ­ƯỜNG BỘ ĐƯỢC ĐIỀU KHIỂN", chữ "Số/No." và " Ngày trúng tuyển" có màu đỏ, các chữ khác in màu đen;</p>
-<p>Ảnh của ng­ười lái xe đ­ược in trực tiếp trên giấy phép lái xe;</p>
-<p>Có lớp màng phủ bảo an lên giấy phép lái xe;</p>
-<p>Phôi được làm bằng vật liệu <strong>PET</strong><strong>.</strong> hoặc vật liệu có tiêu chuẩn kỹ thuật tương đương, có hoa văn màu vàng rơm và các ký hiệu bảo mật.</p>",
-image: "",
-position: "0"
-}
-]
-}
-]
-},
-{
-id: "11",
-name: "Tra Cứu Thông Tin.Org",
-parent_id: null,
-type_id: "1",
-version: "1",
-icon: "icon_main_tim_kiem",
-position: "2",
-count: "5",
-type_name: "NhieuThongTin",
-small_topic: [
-{
-id: "119",
-title: "Website - Sở GTVT TP. HCM",
-category_id: "11",
-type_id: "5",
-position: "1",
-type_name: "url",
-content: [
-{
-id: "1009",
-post_id: "119",
-title: "Website Sở GTVT TP. HCM",
-detail: "<p>http://www.sgtvt.hochiminhcity.gov.vn</p>",
-image: "",
-position: "1"
-}
-]
-},
-{
-id: "121",
-title: "Facebook - Sở GTVT TP. HCM",
-category_id: "11",
-type_id: "5",
-position: "2",
-type_name: "url",
-content: [
-{
-id: "1011",
-post_id: "121",
-title: "Facebook - Sở GTVT TP. HCM",
-detail: "<p>http://m.facebook.com/sgtvthcm</p>",
-image: "",
-position: "1"
-}
-]
-},
-{
-id: "120",
-title: "DỊCH VỤ CÔNG - ĐỔI GPLX",
-category_id: "11",
-type_id: "5",
-position: "3",
-type_name: "url",
-content: [
-{
-id: "1010",
-post_id: "120",
-title: "Xem hướng dẫn sử dụng hệ thống trước khi dùng dịch vụ công - đổi GPLX",
-detail: "<p><strong>http://www.gplx-dichvucong.hochiminhcity.gov.vn</strong></p>",
-image: "",
-position: "0"
-}
-]
-},
-{
-id: "99",
-title: "TRA CỨU GPLX.GOV.VN",
-category_id: "11",
-type_id: "5",
-position: "3",
-type_name: "url",
-content: [
-{
-id: "921",
-post_id: "99",
-title: "1. Nhập số GPLX (mặt trước); 2. Nhập số seri (mặt sau); 3. Chọn loại GPLX (Bìa; PET; Thời hạn, Không thời hạn); 4. Tra cứu",
-detail: "<p><strong>http://gplx.gov.vn</strong></p>",
-image: "",
-position: "0"
-}
-]
-},
-{
-id: "118",
-title: "DANH SÁCH ĐIỂM ĐỔI GPLX",
-category_id: "11",
-type_id: "1",
-position: "15",
-type_name: "Text",
-content: [
-{
-id: "1002",
-post_id: "118",
-title: "ĐIỂM ĐỔI GPLX  TẠI TP. HCM",
-detail: "<p><strong>· Cơ sở 1:</strong> 51/2 Thành Thái, Phường 14, Quận 10. </p>
-<p><strong>· Cơ sở 2:</strong> 08 Nguyễn Ảnh Thủ, Phường Trung Mỹ Tây, Quận 12. </p>
-<p><strong>· Cơ sở 3:</strong> 256 Dương Đình Hội, Phường Tăng Nhơn Phú B, Quận 9.  </p>
-<p><strong>· Cơ sở 4:</strong> 16A Lê Hồng Phong (nối dài), Phường 12, Quận 10.</p>
-<p><strong>· Cơ sở 5: </strong>111 Tân Sơn Nhì, Phường Tân Sơn Nhì, Quận Tân Phú. </p>
-<p><strong>· Cơ sở 6:</strong> 252 Lý Chính Thắng, Phường 9, Quận 3.</p>
-<p>+ Tiếp nhận hồ sơ đổi GPLX nước ngoài. <br> + Tổng đài (08)1081 về cấp GPLX quốc tế. <br> + Hồ sơ đăng ký đổi giấy phép lái xe qua mạng.</p>
-<p><strong>· Cơ sở 7:</strong> 937 Tạ Quang Bửu, Phường 5, Quận 8. </p>
-<p>+ Tiếp nhận hồ sơ đổi GPLX ô tô đăng ký qua Tổng đài 08. 1081.  <br> + Nhận trực tiếp hồ sơ cấp GPLX quốc tế.</p>
-<p><strong>· Cơ sở 8:</strong> Bưu cục của Viettel, 158 đường Cây Trâm, Phường 9, Quận Gò Vấp.</p>
-<p><strong>· Cơ sở 9:</strong> Bưu cục của Viettel, 154 đường Tên Lửa, Phường Bình Trị Đông B, Quận Bình Tân.</p>
-<p><strong>· Cơ sở 10:</strong> Bưu cục của Bưu điện, 3 Phan Đăng Lưu, Phường 3, Quận Bình Thạnh.</p>
-<p><strong>· Cơ sở 11:</strong> Bưu cục của Bưu điện, E9/37 Nguyễn Hữu Trí, T.T Tân Túc, Huyện Bình Chánh.</p>
-<p><strong>· Cơ sở 12:</strong> Bưu cục của Bưu điện, 1441 Huỳnh Tấn Phát, Phường Phú Mỹ, Quận 7.</p>
-<p> </p>
-<p> </p>
-<p> </p>",
-image: "",
-position: "0"
-}
-]
-}
-]
-},
-{
-id: "12",
-name: "Cấp, đổi giấy phép lái xe",
-parent_id: null,
-type_id: "1",
-version: "1",
-icon: "icon_main_cap_lai",
-position: "9",
-count: "5",
-type_name: "NhieuThongTin",
-small_topic: [
-{
-id: "66",
-title: "ĐỔI GIẤY PHÉP LÁI XE DO NGÀNH GIAO THÔNG VẬN TẢI CẤP",
-category_id: "12",
-type_id: "1",
-position: "2",
-type_name: "Text",
-content: [
-{
-id: "870",
-post_id: "66",
-title: "Thông tư số: 58/2015/TT-BGTVT ngày 20/10/2015 của Bộ Giao thông vận tải",
-detail: "<p><strong>Điều 49. Đổi giấy phép lái xe</strong></p>
-<p>1. Giấy phép lái xe bằng giấy bìa còn thời hạn sử dụng được đổi sang giấy phép lái xe bằng vật liệu PET theo lộ trình quy định tại Điều 57 của Thông tư này.</p>
-<p>2. Người có giấy phép lái xe còn thời hạn hoặc quá thời hạn sử dụng dưới 03 tháng, kể từ ngày hết hạn, người có giấy phép lái xe bị hỏng, nếu có nhu cầu tiếp tục sử dụng được xét đổi giấy phép lái xe.</p>
-<p>3. Người có giấy phép lái xe hạng E đủ 55 tuổi đối với nam và 50 tuổi đối với nữ, có nhu cầu tiếp tục lái xe, nếu đủ sức khỏe theo quy định, được xét đổi giấy phép lái xe từ hạng D trở xuống.</p>
-<p>4. Trường hợp năm sinh, họ, tên, tên đệm ghi trên giấy phép lái xe có sai lệch với giấy chứng minh nhân dân thì cơ quan quản lý giấy phép lái xe làm thủ tục đổi giấy phép lái xe mới phù hợp với thông tin ghi trong giấy chứng minh nhân dân.</p>
-<p><strong>5. Đối tượng được đổi giấy phép lái xe:</strong></p>
-<p>- Người Việt Nam được đào tạo, sát hạch, cấp giấy phép lái xe tại Việt Nam;</p>
-<p>- Người có giấy phép lái xe của ngành giao thông vận tải cấp bị hỏng;</p>
-<p>- Người Việt Nam, người nước ngoài định cư lâu dài ở Việt Nam đã có giấy phép lái xe Việt Nam đổi từ giấy phép lái xe nước ngoài, khi hết hạn nếu có nhu cầu được đổi giấy phép lái xe;</p>
-<p>- Người có giấy phép lái xe quân sự còn thời hạn sử dụng khi ra quân (phục viên, xuất ngũ, chuyển ngành, nghỉ hưu...), nếu có nhu cầu được đổi giấy phép lái xe;</p>
-<p>- Cán bộ, chiến sĩ công an có giấy phép lái xe do ngành Công an cấp sau ngày 31 tháng 7 năm 1995 còn thời hạn sử dụng, khi ra khỏi ngành hoặc nghỉ hưu, nếu có nhu cầu được đổi giấy phép lái xe;</p>
-<p>- Người có giấy phép lái xe mô tô của ngành Công an cấp trước ngày 01 tháng 8 năm 1995 bị hỏng có nhu cầu đổi, có tên trong sổ lưu được xét đổi giấy phép lái xe mới;</p>
-<p><strong>6. Không đổi giấy phép lái xe đối với các trường hợp sau:</strong></p>
-<p>- Giấy phép lái xe quân sự, công an quá thời hạn sử dụng theo quy định, bị tẩy xóa, rách nát không còn đủ các yếu tố cần thiết để đổi giấy phép lái xe hoặc có sự khác biệt về nhận dạng;</p>
-<p>- Giấy phép lái xe do ngành Giao thông vận tải cấp nhưng không có trong hệ thống thông tin giấy phép lái xe, bảng kê danh sách cấp giấp phép lái xe (sổ quản lý);</p>
-<p>- Quyết định ra quân tính đến ngày làm thủ tục đổi quá thời hạn 06 tháng đối với giấy phép lái xe quân sự do Bộ Quốc phòng cấp;</p>
-<p>- Người không đủ tiêu chuẩn sức khỏe theo quy định.</p>
-<p><strong>7. Thời hạn sử dụng và hạng xe được phép điều khiển:</strong></p>
-<p>- Giấy phép lái xe quốc gia cấp cho người đổi được điều khiển nhiều hạng xe khác nhau được đổi sang giấy phép lái xe để điều khiển các hạng xe tương ứng của Việt Nam;</p>
-<p>- Giấy phép lái xe quân sự có hiệu lực được phép lái nhiều hạng xe khác nhau được đổi sang giấy phép lái xe ngành giao thông vận tải có hiệu lực lái các hạng xe tương ứng.</p>
-<p><strong>8. Thời gian đổi giấy phép lái xe:</strong></p>
-<p>- Không quá 05 ngày làm việc, kể từ khi nhận đủ hồ sơ hợp lệ theo quy định;</p>
-<p>- Khi đổi giấy phép lái xe, cơ quan cấp giấy phép lái xe cắt góc giấy phép lái xe cũ (trừ giấy phép lái xe do nước ngoài cấp).</p>
-<p><strong>Điều 50. Hồ sơ đổi giấy phép lái xe do ngành Giao thông vận tải cấp</strong></p>
-<p>Người lái xe lập 01 bộ hồ sơ, gửi trực tiếp tại Tổng cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải. Hồ sơ bao gồm:</p>
-<p>1. Đơn đề nghị đổi, cấp lại giấy phép lái xe theo mẫu quy định tại Phụ lục 27 ban hành kèm theo Thông tư này.</p>
-<p>2. Giấy chứng nhận sức khỏe do cơ sở y tế có thẩm quyền cấp theo quy định, trừ các đối tượng sau:</p>
-<p>a) Người có giấy phép lái xe hạng A1, A2, A3;</p>
-<p>b) Người chuyển đổi giấy phép lái xe hạng A4, giấy phép lái xe ô tô còn thời hạn sử dụng trên 03 (ba) tháng bằng giấy bìa sang giấy phép lái xe bằng vật liệu PET;</p>
-<p>c) Trường hợp tách giấy phép lái xe có thời hạn và không thời hạn.</p>
-<p>3. Bản sao giấy phép lái xe, giấy chứng minh nhân dân hoặc hộ chiếu còn thời hạn có ghi số giấy chứng minh nhân dân (đối với người Việt Nam) hoặc hộ chiếu còn thời hạn sử dụng (đối với người nước ngoài, người Việt Nam định cư ở nước ngoài).</p>
-<p>- Khi đến đổi giấy phép lái xe, người lái xe được cơ quan cấp giấy phép lái xe chụp ảnh.</p>
-<p><strong>* Lệ phí</strong> cấp, đổi giấy phép lái xe PET/lần (Thông tư số: 73/2012/TT-BTC ngày 14/5/2012).</p>
-<p>- GPLX vật liệu PET/lần: <strong>135.000 đồng</strong></p>
-<p><strong>* Mới: </strong>được đổi giấy phép lái xe trên toàn quốc không phân biệt nơi đã cấp, quản lý trước đó.</p>",
-image: "",
-position: "0"
-}
-]
-},
-{
-id: "69",
-title: "CẤP LẠI GIẤY PHÉP LÁI XE DO QUÁ HẠN SỬ DỤNG",
-category_id: "12",
-type_id: "1",
-position: "4",
-type_name: "Text",
-content: [
-{
-id: "874",
-post_id: "69",
-title: "Thông tư số: 58/2015/TT-BGTVT ngày 20/10/2015 của Bộ Giao thông vận tải",
-detail: "<p><strong>Điều 48. Cấp lại giấy phép lái xe</strong></p>
-<p><strong>1. Người có giấy phép lái xe quá thời hạn sử dụng</strong></p>
-<p>a) Từ 03 tháng đến dưới 01 năm, kể từ ngày hết hạn, phải sát hạch lại lý thuyết để cấp lại giấy phép lái xe;</p>
-<p>b) Từ 01 năm trở lên, kể từ ngày hết hạn, phải sát hạch lại cả lý thuyết và thực hành để cấp lại giấy phép lái xe.</p>
-<p>Người lái xe lập 01 bộ hồ sơ gửi trực tiếp tại Tổng cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải. Hồ sơ bao gồm:</p>
-<p>- Đơn đề nghị đổi, cấp lại giấy phép lái xe theo mẫu quy định tại Phụ lục 27 ban hành kèm theo Thông tư này;</p>
-<p>- Bản sao giấy chứng minh nhân dân hoặc hộ chiếu còn thời hạn có ghi số giấy chứng minh nhân dân đối với người Việt Nam; hộ chiếu còn thời hạn đối với người nước ngoài, người Việt Nam định cư ở nước ngoài;</p>
-<p>- Giấy chứng nhận sức khỏe do cơ sở y tế có thẩm quyền cấp theo quy định;</p>
-<p>- 03 Ảnh màu 3x4 chụp kiểu chứng minh nhân dân không quá 6 tháng.</p>
-<p><strong>2. Người có giấy phép lái xe bị mất lần thứ nhất, còn thời hạn sử dụng hoặc quá thời hạn sử dụng dưới 03 tháng,</strong> có tên trong hồ sơ của cơ quan quản lý sát hạch, khi tra cứu vi phạm của người lái xe trong Hệ thống thông tin giấy phép lái xe, nếu không phát hiện đang bị các cơ quan có thẩm quyền thu giữ, xử lý, sau 02 tháng kể từ ngày nộp đủ hồ sơ theo quy định, được xét cấp lại giấy phép lái xe</p>
-<p>Người lái xe lập 01 bộ hồ sơ gửi trực tiếp tại Tổng cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải. Hồ sơ bao gồm:</p>
-<p>- Đơn đề nghị đổi, cấp lại giấy phép lái xe theo mẫu quy định tại Phụ lục 27 ban hành kèm theo Thông tư này;</p>
-<p>- Bản chính hồ sơ gốc phù hợp với giấy phép lái xe (nếu có);</p>
-<p>- Giấy chứng nhận sức khỏe do cơ sở y tế có thẩm quyền cấp theo quy định, trừ trường hợp cấp lại giấy phép lái xe không thời hạn các hạng A1, A2, A3;</p>
-<p>- Bản sao kèm theo bản chính để đối chiếu gồm: giấy chứng minh nhân dân (đối với người Việt Nam) hoặc hộ chiếu còn thời hạn sử dụng (đối với người nước ngoài, người Việt Nam định cư ở nước ngoài).</p>
-<p>- 03 Ảnh màu 3x4 chụp kiểu chứng minh nhân dân không quá 6 tháng.</p>
-<p>- Khi đến cấp lại giấy phép lái xe, người lái xe được cơ quan cấp giấy phép lái xe chụp ảnh.</p>
-<p><strong>3. Người có giấy phép lái xe bị mất lần thứ nhất, quá thời hạn sử dụng từ 03 tháng trở lên,</strong> có tên trong hồ sơ của cơ quan quản lý sát hạch, khi tra cứu vi phạm của người lái xe trong Hệ thống thông tin giấy phép lái xe, nếu không phát hiện đang bị các cơ quan có thẩm quyền thu giữ, xử lý, sau 02 tháng kể từ ngày nộp đủ hồ sơ hợp lệ theo quy định, phải dự sát hạch lại các nội dung:</p>
-<p>a) Quá từ sử dụng từ 03 tháng đến dưới 01 năm, phải dự sát hạch lại lý thuyết;</p>
-<p>b) Quá hạn sử dụng từ 01 năm trở lên, phải sát hạch lại cả lý thuyết và thực hành.</p>
-<p>Người lái xe lập 01 bộ hồ sơ, gửi trực tiếp tại Tổng cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải. Hồ sơ bao gồm:</p>
-<p>- Đơn đề nghị đổi, cấp lại giấy phép lái xe theo mẫu quy định tại Phụ lục 27 ban hành kèm theo Thông tư này có ghi ngày tiếp nhận hồ sơ của cơ quan tiếp nhận;</p>
-<p>- Giấy chứng nhận sức khỏe do cơ sở y tế có thẩm quyền cấp theo quy định;</p>
-<p>- Bản sao giấy chứng minh nhân dân hoặc hộ chiếu còn thời hạn có ghi số giấy chứng minh nhân dân đối với người Việt Nam; hộ chiếu còn thời hạn đối với người nước ngoài, người Việt Nam định cư ở nước ngoài;</p>
-<p>- Bản chính hồ sơ gốc của giấy phép lái xe bị mất (nếu có).</p>
-<p>- 03 Ảnh màu 3x4 chụp kiểu chứng minh nhân dân không quá 6 tháng.</p>
-<p><strong>4. Người có giấy phép lái xe bị mất lần thứ hai, nếu có nhu cầu cấp lại:</strong></p>
-<p>a) Trong thời hạn 02 năm, kể từ ngày cấp lại cho giấy phép lái xe bị mất lần thứ nhất; có tên trong hồ sơ của cơ quan quản lý sát hạch; khi tra cứu vi phạm của người lái xe trong Hệ thống thông tin giấy phép lái xe, không phát hiện đang bị các cơ quan có thẩm quyền thu giữ, xử lý; sau 02 tháng kể từ ngày nộp đủ hồ sơ hợp lệ theo quy định, phải sát hạch lại lý thuyết để cấp lại giấy phép lái xe;</p>
-<p>b) Trên 02 năm, kể từ ngày cấp lại cho giấy phép lái xe bị mất lần thứ nhất thì được xử lý cấp lại như mất lần thứ nhất.</p>
-<p>Người lái xe lập 01 bộ hồ sơ, gửi trực tiếp tại Tổng cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải. Hồ sơ bao gồm:</p>
-<p>- Đơn đề nghị đổi, cấp lại giấy phép lái xe theo mẫu quy định tại Phụ lục 27 ban hành kèm theo Thông tư này có ghi ngày tiếp nhận hồ sơ của cơ quan tiếp nhận;</p>
-<p>- Giấy chứng nhận sức khỏe do cơ sở y tế có thẩm quyền cấp theo quy định;</p>
-<p>- Bản sao giấy chứng minh nhân dân hoặc hộ chiếu còn thời hạn có ghi số giấy chứng minh nhân dân đối với người Việt Nam; hộ chiếu còn thời hạn đối với người nước ngoài, người Việt Nam định cư ở nước ngoài;</p>
-<p>- Bản chính hồ sơ gốc của giấy phép lái xe bị mất (nếu có).</p>
-<p>- 03 Ảnh màu 3x4 chụp kiểu chứng minh nhân dân không quá 6 tháng.</p>
-<p><strong>5. Người có giấy phép lái xe bị mất từ lần thứ ba trở lên, nếu có nhu cầu cấp lại:</strong></p>
-<p>a) Trong thời hạn 02 năm, kể từ ngày cấp lại cho giấy phép lái xe bị mất lần trước đó; có tên trong hồ sơ của cơ quan quản lý sát hạch; khi tra cứu vi phạm của người lái xe trong Hệ thống thông tin giấy phép lái xe, không phát hiện đang bị các cơ quan có thẩm quyền thu giữ, xử lý; sau 02 tháng kể từ ngày nộp đủ hồ sơ hợp lệ theo quy định, phải sát hạch lại cả lý thuyết và thực hành để cấp lại giấy phép lái xe;</p>
-<p>b) Trên 02 năm, kể từ ngày cấp lại cho giấy phép lái xe bị mất lần trước đó thì được xử lý cấp lại như mất lần thứ nhất.</p>
-<p>Người lái xe lập 01 bộ hồ sơ, gửi trực tiếp tại Tổng cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải. Hồ sơ bao gồm:</p>
-<p>- Đơn đề nghị đổi, cấp lại giấy phép lái xe theo mẫu quy định tại Phụ lục 27 ban hành kèm theo Thông tư này có ghi ngày tiếp nhận hồ sơ của cơ quan tiếp nhận;</p>
-<p>- Giấy chứng nhận sức khỏe do cơ sở y tế có thẩm quyền cấp theo quy định;</p>
-<p>- Bản sao giấy chứng minh nhân dân hoặc hộ chiếu còn thời hạn có ghi số giấy chứng minh nhân dân đối với người Việt Nam; hộ chiếu còn thời hạn đối với người nước ngoài, người Việt Nam định cư ở nước ngoài;</p>
-<p>- Bản chính hồ sơ gốc của giấy phép lái xe bị mất (nếu có).</p>
-<p>- 03 Ảnh màu 3x4 chụp kiểu chứng minh nhân dân không quá 6 tháng.</p>
-<p><strong>6. Ngày trúng tuyển</strong> ghi tại mặt sau giấy phép lái xe cấp lại (phục hồi), được tính theo ngày trúng tuyển của giấy phép lái xe cũ.</p>
-<p><strong>7. Thời gian cấp lại giấy phép lái xe thực hiện như đối với cấp mới.</strong></p>
-<p><strong>8. Người dự sát hạch lại</strong> có nhu cầu ôn tập, đăng ký với các cơ sở đào tạo lái xe để được hướng dẫn ôn tập, phải nộp phí ôn tập theo quy định, không phải học lại theo chương trình đào tạo.</p>
-<p><strong>9. Người có giấy phép lái xe còn thời hạn sử dụng, nhưng không còn hồ sơ gốc,</strong> có tên trong hồ sơ của cơ quan quản lý sát hạch, nếu có nhu cầu được lập lại hồ sơ gốc.</p>
-<p>Người lái xe lập 01 bộ hồ sơ, gửi trực tiếp tại Tổng cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải (nơi đã cấp giấy phép lái xe). Hồ sơ bao gồm:</p>
-<p>a) Đơn đề nghị đổi, cấp lại giấy phép lái xe theo mẫu quy định tại Phụ lục 27 ban hành kèm theo Thông tư này;</p>
-<p>b) Bản sao giấy phép lái xe, giấy chứng minh nhân dân hoặc hộ chiếu còn thời hạn.</p>
-<p>Cơ quan cấp giấy phép lái xe kiểm tra, xác nhận và đóng dấu, ghi rõ: số, hạng giấy phép lái xe được cấp, ngày sát hạch (nếu có), tên cơ sở đào tạo (nếu có) vào góc trên bên phải đơn đề nghị đổi, cấp lại giấy phép lái xe và trả cho người lái xe tự bảo quản để thay hồ sơ gốc.</p>
-<p><strong>* Ảnh 3x4 mang theo </strong>để dán vào các loại biểu mẫu (form) khi có yêu cầu như:</p>
-<p>- Mẫu đơn; Giấy Khám sức Khỏe; thẻ học viên khi dự sát hạch lại ...</p>
-<p><strong>* Giấy khám sức khỏe chỉ có giá trị 06 tháng</strong> kể từ ngày ký Kết luận theo Thông tư liên tịch số 24/2015 ngày 21/8/2015 liên Bộ Y tế và Bộ Giao thông vận tải.</p>
-<p><strong>* Phí, lệ phí sát hạch ô tô </strong>(Thông tư số: 23/2013/TT-BTC ngày 27/02/2013).</p>
-<p>- Lý thuyết:<strong>     90.000 đồng</strong></p>
-<p>- Trong hình:<strong>  300.000 đồng</strong></p>
-<p>- Trên đường:<strong>  60.000 đồng</strong></p>
-<p><strong>* Lệ phí</strong> cấp, đổi giấy phép lái xe PET/lần (Thông tư số: 73/2012/TT-BTC ngày 14/5/2012).</p>
-<p>- GPLX vật liệu PET/lần: <strong>135.000 đồng</strong></p>
-<p><strong>* Mới: </strong>được cấp lại giấy phép lái xe trên toàn quốc không phân biệt nơi đã cấp, quản lý trước đó.</p>
-<p> </p>
-<p> </p>",
-image: "",
-position: "0"
-}
-]
-},
-{
-id: "77",
-title: "ĐỔI GIẤY PHÉP LÁI XE QUÂN SỰ DO BỘ QUỐC PHÒNG CẤP",
-category_id: "12",
-type_id: "1",
-position: "9",
-type_name: "Text",
-content: [
-{
-id: "888",
-post_id: "77",
-title: "Thông tư số: 58/2015/TT-BGTVT ngày 20/10/2015 của Bộ Giao thông vận tải",
-detail: "<p><strong>Điều 51. Hồ sơ đổi giấy phép lái xe quân sự do Bộ Quốc phòng cấp</strong></p>
-<p>Người lái xe lập 01 bộ hồ sơ, gửi trực tiếp tại Tổng cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải. Hồ sơ bao gồm:</p>
-<p>1. Đơn đề nghị đổi, cấp lại giấy phép lái xe theo mẫu quy định tại Phụ lục 27 ban hành kèm theo Thông tư này.</p>
-<p>2. Bản sao Quyết định ra quân trong thời hạn không quá 06 tháng tính từ ngày Thủ trưởng cấp trung đoàn trở lên ký kèm theo bản chính để đối chiếu.</p>
-<p>3. Giấy chứng nhận sức khỏe do cơ sở y tế có thẩm quyền cấp theo quy định, trừ trường hợp đổi giấy phép lái xe hạng A1, A2, A3.</p>
-<p>4. Giấy phép lái xe quân sự còn thời hạn sử dụng (bản chính).</p>
-<p>5. Bản sao giấy chứng minh nhân dân còn thời hạn kèm bản chính để đối chiếu.</p>
-<p>- Khi đến nộp hồ sơ, người lái xe được cơ quan cấp giấy phép lái xe chụp ảnh.</p>
-<p>* Hồ sơ đổi giấy phép lái xe quân sự là hồ sơ gốc gồm các tài liệu ghi ở khoản 1 và khoản 2 Điều này và giấy phép lái xe quân sự đã được cắt góc, giao cho người lái xe tự bảo quản.</p>
-<p><strong>* Lệ phí</strong> cấp, đổi giấy phép lái xe PET/lần (Thông tư số: 73/2012/TT-BTC ngày 14/5/2012).</p>
-<p>- GPLX vật liệu PET/lần: <strong>135.000 đồng</strong></p>",
-image: "",
-position: "0"
-}
-]
-},
-{
-id: "78",
-title: "ĐỔI GIẤY PHÉP LÁI XE DO BỘ CÔNG AN CẤP",
-category_id: "12",
-type_id: "1",
-position: "10",
-type_name: "Text",
-content: [
-{
-id: "890",
-post_id: "78",
-title: "Thông tư số: 58/2015/TT-BGTVT ngày 20/10/2015 của Bộ Giao thông vận tải",
-detail: "<p><strong>Điều 52. Hồ sơ đổi giấy phép lái xe do ngành Công an cấp</strong></p>
-<p><strong>1. Hồ sơ đổi giấy phép lái xe mô tô do ngành Công an cấp trước ngày 01 tháng 8 năm 1995</strong></p>
-<p>Người lái xe lập 01 bộ hồ sơ, gửi trực tiếp tại Tổng cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải. Hồ sơ bao gồm:</p>
-<p>a) Đơn đề nghị đổi, cấp lại giấy phép lái xe theo mẫu quy định tại Phụ lục 27 ban hành kèm theo Thông tư này;</p>
-<p>b) Bản sao kèm theo bản chính để đối chiếu gồm: giấy phép lái xe, giấy chứng minh nhân dân còn thời hạn sử dụng;</p>
-<p>c) Hồ sơ gốc (nếu có).</p>
-<p>- Khi đến nộp hồ sơ, người lái xe được cơ quan cấp giấy phép lái xe chụp ảnh.</p>
-<p><strong>2. Hồ sơ đổi giấy phép lái xe do ngành Công an cấp từ ngày 01 tháng 8 năm 1995.</strong></p>
-<p>Người lái xe lập 01 bộ hồ sơ, gửi trực tiếp tại Tổng cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải. Hồ sơ bao gồm:</p>
-<p>a) Đơn đề nghị đổi, cấp lại giấy phép lái xe theo mẫu quy định tại Phụ lục 27 ban hành kèm theo Thông tư này;</p>
-<p>b) Bản sao kèm bản chính để đối chiều gồm: Quyết định ra khỏi ngành hoặc nghỉ hưu của cấp có thẩm quyền, giấy chứng minh nhân dân còn thời hạn sử dụng;</p>
-<p>c) Giấy chứng nhận sức khỏe do cơ sở y tế có thẩm quyền cấp theo quy định, trừ trường hợp đổi giấy phép lái xe hạng A1, A2, A3;</p>
-<p>d) Bản chính giấy phép lái xe của ngành Công an cấp còn thời hạn sử dụng.</p>
-<p>- Khi đến nộp hồ sơ, người đổi giấy phép lái xe được cơ quan cấp giấy phép lái xe chụp ảnh.</p>
-<p>* Hồ sơ đổi giấy phép lái xe Công an là hồ sơ gốc, gồm tài liệu ghi ở điểm a và điểm b khoản 2 Điều này và giấy phép lái xe công an đã được cắt góc, giao cho người lái xe tự bảo quản.</p>
-<p><strong>* Lệ phí</strong> cấp, đổi giấy phép lái xe PET/lần (Thông tư số: 73/2012/TT-BTC ngày 14/5/2012).</p>
-<p>- GPLX vật liệu PET/lần: <strong>135.000 đồng</strong></p>",
-image: "",
-position: "0"
-}
-]
-},
-{
-id: "67",
-title: "ĐƠN ĐỀ NGHỊ ĐỔI, CẤP LẠI GIẤY PHÉP LÁI XE - PHỤ LỤC 27",
-category_id: "12",
-type_id: "4",
-position: "11",
-type_name: "PDF",
-content: [
-{
-id: "872",
-post_id: "67",
-title: "ĐƠN ĐỀ NGHỊ ĐỔI, CẤP LẠI GIẤY PHÉP LÁI XE - PHỤ LỤC 27",
-detail: "",
-image: "cap_lai_giay_phep",
-position: "0"
-}
-]
-}
-]
-},
-{
-id: "14",
-name: "Nước ngoài",
-parent_id: null,
-type_id: "1",
-version: "1",
-icon: "icon_main_quoc_te",
-position: "10",
-count: "7",
-type_name: "NhieuThongTin",
-small_topic: [
-{
-id: "91",
-title: "ĐỔI BẰNG LÁI XE NƯỚC NGOÀI CẤP SANG VIỆT NAM",
-category_id: "14",
-type_id: "1",
-position: "1",
-type_name: "Text",
-content: [
-{
-id: "909",
-post_id: "91",
-title: "Thông tư số: 58/2015/TT-BGTVT ngày 20/10/2015 của Bộ Giao thông vận tải",
-detail: "<p><strong>Điều 49. Đổi giấy phép lái xe</strong></p>
-<p><strong>Khoản 5. Đối tượng được đổi giấy phép lái xe:</strong></p>
-<p>- Người nước ngoài được đào tạo, sát hạch, cấp giấy phép lái xe tại Việt Nam;</p>
-<p>- Người có giấy phép lái xe của ngành giao thông vận tải cấp bị hỏng;</p>
-<p>- Người nước ngoài định cư lâu dài ở Việt Nam đã có giấy phép lái xe Việt Nam đổi từ giấy phép lái xe nước ngoài, khi hết hạn nếu có nhu cầu được đổi giấy phép lái xe;</p>
-<p>- Người nước ngoài cư trú, làm việc, học tập tại Việt Nam với thời gian từ 03 tháng trở lên, có giấy phép lái xe quốc gia còn thời hạn sử dụng, nếu có nhu cầu lái xe ở Việt Nam được xét đổi sang giấy phép lái xe tương ứng của Việt Nam;</p>
-<p>- Khách du lịch nước ngoài lái xe đăng ký nước ngoài vào Việt Nam, có giấy phép lái xe quốc gia còn thời hạn sử dụng, nếu có nhu cầu lái xe ở Việt Nam được xét đổi sang giấy phép lái xe tương ứng của Việt Nam;</p>
-<p>- Người Việt Nam (mang quốc tịch Việt Nam) trong thời gian cư trú, học tập, làm việc ở nước ngoài được nước ngoài cấp giấy phép lái xe quốc gia, còn thời hạn sử dụng, nếu có nhu cầu lái xe ở Việt Nam được xét đổi sang giấy phép lái xe tương ứng của Việt Nam.</p>
-<p><strong>Khoản 6. Không đổi giấy phép lái xe đối với các trường hợp sau:</strong></p>
-<p>- Giấy phép lái xe tạm thời của nước ngoài; giấy phép lái xe quốc tế; giấy phép lái xe của nước ngoài quá thời hạn sử dụng theo quy định, bị tẩy xóa, rách nát không còn đủ các yếu tố cần thiết để đổi giấy phép lái xe hoặc có sự khác biệt về nhận dạng; giấy phép lái xe nước ngoài không do cơ quan có thẩm quyền cấp;</p>
-<p>- Giấy phép lái xe do ngành Giao thông vận tải cấp nhưng không có trong hệ thống thông tin giấy phép lái xe, bảng kê danh sách cấp giấp phép lái xe (sổ quản lý).</p>
-<p><strong>Khoản 7. Thời hạn sử dụng và hạng xe được phép điều khiển:</strong></p>
-<p>- Thời hạn sử dụng giấy phép lái xe Việt Nam đổi cho người nước ngoài phù hợp với thời hạn ghi trong thị thực nhập cảnh hoặc thẻ tạm trú, phù hợp với thời hạn sử dụng giấy phép lái xe nước ngoài nhưng không vượt quá thời hạn quy định của giấy phép lái xe Việt Nam;</p>
-<p>- Thời hạn sử dụng giấy phép lái xe Việt Nam đổi cho khách du lịch nước ngoài lái xe đăng ký nước ngoài vào Việt Nam phù hợp với thời gian du lịch ở Việt Nam (từ khi nhập cảnh đến khi xuất cảnh) nhưng không vượt quá thời hạn quy định của giấy phép lái xe Việt Nam;</p>
-<p>- Đối với khách du lịch nước ngoài lái xe vào Việt Nam chưa có điều kiện xuất trình hộ chiếu và giấy phép lái xe nước ngoài, khi đổi giấy phép lái xe có thể căn cứ vào danh sách xuất nhập cảnh của Bộ Công an và bản dịch giấy phép lái xe (kèm theo bản sao giấy phép lái xe nước ngoài), làm sẵn giấy phép lái xe cho số người đăng ký. Giấy phép lái xe chỉ được cấp cho những người thực sự vào Việt Nam sau khi đối chiếu giấy phép lái xe nước ngoài và hộ chiếu;</p>
-<p>- Giấy phép lái xe quốc gia cấp cho người đổi được điều khiển nhiều hạng xe khác nhau được đổi sang giấy phép lái xe để điều khiển các hạng xe tương ứng của Việt Nam.</p>
-<p><strong>Khoản 8. Thời gian đổi giấy phép lái xe:</strong></p>
-<p>- Không quá 05 ngày làm việc, kể từ khi nhận đủ hồ sơ hợp lệ theo quy định;</p>
-<p>- Khi đổi giấy phép lái xe, cơ quan cấp giấy phép lái xe cắt góc giấy phép lái xe cũ (trừ giấy phép lái xe do nước ngoài cấp).</p>
-<p><strong>Điều 53. Hồ sơ đổi giấy phép lái xe hoặc bằng lái xe của nước ngoài</strong></p>
-<p>1. Người lái xe lập 01 bộ hồ sơ, gửi trực tiếp tại Tổng cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải (nơi đăng ký cư trú, lưu trú, tạm trú hoặc định cư lâu dài). Hồ sơ bao gồm:</p>
-<p>a) Đơn đề nghị đổi, cấp lại giấy phép lái xe (đối với người Việt Nam theo mẫu quy định tại Phụ lục 27 ban hành kèm theo Thông tư này; đối với người nước ngoài theo mẫu quy định tại Phụ lục 28 ban hành kèm theo Thông tư này);</p>
-<p>b) Bản dịch giấy phép lái xe nước ngoài ra tiếng Việt được bảo chứng chất lượng dịch thuật của cơ quan Công chứng hoặc Đại sứ quán, Lãnh sự quán tại Việt Nam mà người dịch làm việc, đóng dấu giáp lai với bản sao giấy phép lái xe; trường hợp phát hiện có nghi vấn, cơ quan cấp đổi giấy phép lái xe có văn bản đề nghị Đại sứ quán, Lãnh sự quán của quốc gia cấp giấy phép lái xe tại Việt Nam xác minh;</p>
-<p>c) Bản sao kèm theo bản chính để đối chiếu, bao gồm: hộ chiếu (phần số hộ chiếu, họ tên và ảnh người được cấp, thời hạn sử dụng và trang thị thực nhập cảnh vào Việt Nam), bản sao giấy chứng minh nhân dân, giấy chứng minh thư ngoại giao hoặc công vụ do Bộ Ngoại giao Việt Nam cấp hoặc bản sao thẻ cư trú, thẻ lưu trú, thẻ tạm trú, thẻ thường trú, giấy tờ xác minh định cư lâu dài tại Việt Nam đối với người nước ngoài.</p>
-<p>- Khi đến đổi giấy phép lái xe, người lái xe được cơ quan cấp giấy phép lái xe chụp ảnh.</p>
-<p>2. Hồ sơ đổi giấy phép lái xe do cơ quan đổi giấy phép lái xe giao cho người lái xe quản lý là hồ sơ gốc, gồm các tài liệu quy định tại khoản 1 Điều này và giấy phép lái xe nước ngoài.</p>
-<p><strong>Điều 54. Hồ sơ đổi giấy phép lái xe hoặc bằng lái xe của nước ngoài cấp cho khách du lịch nước ngoài lái xe vào Việt Nam</strong></p>
-<p>1. Người có nhu cầu lập 01 bộ hồ sơ, gửi trực tiếp hoặc qua đường bưu chính đến Sở Giao thông vận tải. Hồ sơ bao gồm:</p>
-<p>a) Đơn đề nghị đổi giấy phép lái xe theo mẫu quy định tại Phụ lục 28 ban hành kèm theo Thông tư này;</p>
-<p>b) Bản dịch giấy phép lái xe nước ngoài ra tiếng Việt được bảo chứng chất lượng dịch thuật của cơ quan công chứng hoặc Đại sứ quán, Lãnh sự quán tại Việt Nam mà người dịch làm việc, đóng dấu giáp lai với bản sao giấy phép lái xe; trường hợp phát hiện có nghi vấn, cơ quan cấp đổi giấy phép lái xe có văn bản đề nghị Đại sứ quán, Lãnh sự quán của quốc gia cấp giấy phép lái xe tại Việt Nam xác minh;</p>
-<p>c) Bản sao có chứng thực danh sách xuất nhập cảnh của Bộ Công an hoặc bản sao hộ chiếu gồm phần số hộ chiếu, họ tên và ảnh người được cấp, thời hạn sử dụng và trang thị thực nhập cảnh vào Việt Nam;</p>
-<p>d) 01 ảnh màu cỡ 3 cm x 4 cm nền ảnh màu xanh, kiểu chứng minh nhân dân.</p>
-<p>Khi đến nhận giấy phép lái xe, người lái xe xuất trình hộ chiếu còn thời hạn và giấy phép lái xe nước ngoài để đối chiếu.</p>
-<p>2. Cơ quan quản lý cấp giấy phép lái xe phải ghi vào hồ sơ quản lý là giấy phép lái xe đổi 01 lần.</p>
-<p><strong>* Lệ phí</strong> cấp, đổi giấy phép lái xe PET/lần (Thông tư số: 73/2012/TT-BTC ngày 14/5/2012).</p>
-<p>- GPLX vật liệu PET/lần: <strong>135.000 đồng</strong></p>",
-image: "",
-position: "0"
-}
-]
-},
-{
-id: "96",
-title: "ĐỔI GIẤY PHÉP LÁI XE QUỐC TẾ IDP",
-category_id: "14",
-type_id: "1",
-position: "2",
-type_name: "Text",
-content: [
-{
-id: "918",
-post_id: "96",
-title: "Thông tư số: 29/2015/TT-BGTVT ngày 06/7/2015 của Bộ Giao thông vận tải",
-detail: "<p><strong>Điều 3. Giải thích từ ng</strong><strong>ữ</strong></p>
-<p>Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:</p>
-<p>1. Giấy phép lái xe quốc tế là giấy phép lái xe do cơ quan nhà nước có thẩm quyền của các nước (bao gồm cả khu vực hành chính) tham gia Công ước Viên cấp theo một mẫu thống nhất.</p>
-<p>2. Giấy phép lái xe quốc tế có tên tiếng Anh là International Driving Permit, sau đây gọi tắt là IDP.</p>
-<p>3. Giấy phép lái xe quốc gia là giấy phép lái xe do cơ quan có thẩm quyền của các nước cấp, có giá trị trên lãnh thổ nước đó.</p>
-<p>4. Hồ sơ điện tử giấy phép lái xe quốc tế là tập hợp các tài liệu điện tử liên quan đến cấp IDP.</p>
-<p><strong>Điều 4. Mẫu giấy phép lái xe quốc tế</strong></p>
-<p>1. IDP là một quyển sổ có kích thước A6 (148 mm x 105 mm), có ký hiệu bảo mật, bìa màu xám, những trang giấy bên trong màu trắng theo mẫu quy định tại Phụ lục I ban hành kèm theo Thông tư này.</p>
-<p>2. Trang 1 (trang bìa) ghi thông tin cơ bản của IDP được in song ngữ tiếng Việt và tiếng Anh; trang 2 quy định về phạm vi sử dụng IDP in song ngữ tiếng Việt và tiếng Anh, trang 3 quy định phần khai về người lái xe và phân hạng IDP in bằng tiếng Việt, trang 4 để trống, trang 5 quy định phần khai về người lái xe và phân hạng IDP in bằng tiếng Anh, trang 6 quy định phần khai về người lái xe và phân hạng IDP in bằng tiếng Nga, trang 7 quy định phần khai về người lái xe và phân hạng IDP in bằng tiếng Tây Ban Nha, trang 8 quy định phần khai về người lái xe và phân hạng IDP in bằng tiếng Pháp, trang 9 quy định hạng xe được điều khiển in bằng tiếng Pháp.</p>
-<p>3. Số IDP gồm ký hiệu phân biệt quốc gia của Việt Nam đối với giao thông quốc tế là VN và 12 chữ số sau là số giấy phép lái xe quốc gia.</p>
-<p><strong>Điều 5. Thời hạn và hạng xe điều khiển của giấy phép lái xe quốc tế</strong></p>
-<p>1. IDP có thời hạn không quá 03 năm, kể từ ngày cấp và phải phù hợp với thời hạn còn hiệu lực của giấy phép lái xe quốc gia.</p>
-<p>2. Hạng xe được phép điều khiển của IDP tương ứng với các hạng xe của giấy phép lái xe quốc gia do Việt Nam cấp quy định tại Phụ lục II ban hành kèm theo Thông tư này.</p>
-<p><strong>Điều 6. Đối tượng được cấp giấy phép lái xe quốc tế</strong></p>
-<p>Người Việt Nam, người nước ngoài có thẻ thường trú tại Việt Nam, có giấy phép lái xe quốc gia do Việt Nam cấp bằng vật liệu <strong>PET.</strong> còn giá trị sử dụng.</p>
-<p><strong>Điều 7. Trách nhiệm cấp và quản lý giấy phép lái xe quốc tế</strong></p>
-<p>1. Tổng cục Đường bộ Việt Nam quản lý việc cấp IDP thống nhất trong phạm vi toàn quốc, có trách nhiệm sau đây:</p>
-<p>a) Thiết kế tính năng bảo mật của phôi ấn chỉ IDP; tổ chức in, phát hành, hướng dẫn và quản lý việc sử dụng phôi ấn chỉ IDP trong toàn quốc;</p>
-<p>b) Xây dựng hệ thống thông tin quản lý IDP;</p>
-<p>c) Công bố, cập nhật danh sách các nước tham gia Công ước Viên hàng năm theo thông báo chính thức của Liên hợp quốc trên Trang Thông tin điện tử của Tổng cục Đường bộ Việt Nam;</p>
-<p>d) Xây dựng, ban hành danh mục các trang thiết bị phục vụ cho công tác cấp IDP;</p>
-<p>đ) Chỉ đạo các Sở Giao thông vận tải đáp ứng đủ điều kiện quy định tại điểm a khoản 2 Điều này tổ chức triển khai thực hiện cấp IDP;</p>
-<p>e) Công bố và thực hiện cập nhật danh sách các Sở Giao thông vận tải cấp IDP;</p>
-<p>g) Đảm bảo các trang thiết bị theo đúng quy định tại điểm d khoản 1 Điều này;</p>
-<p>h) Tiếp nhận, chịu trách nhiệm về tính chính xác, hợp pháp của hồ sơ cấp IDP và thực hiện việc cấp IDP theo đúng quy định.</p>
-<p>2. Sở Giao thông vận tải thực hiện việc cấp, quản lý IDP tại địa phương, có trách nhiệm sau đây:</p>
-<p>a) Đảm bảo các trang thiết bị theo đúng quy định tại điểm d khoản 1 Điều này;</p>
-<p>b) Tiếp nhận, chịu trách nhiệm về tính chính xác, hợp pháp của hồ sơ cấp IDP và thực hiện việc cấp IDP theo đúng quy định;</p>
-<p>c) Hàng năm (trước ngày 05 tháng 01 của năm sau), tổng hợp kết quả cấp IDP theo mẫu quy định tại Phụ lục III ban hành kèm theo Thông tư này, gửi Tổng cục Đường bộ Việt Nam để tổng hợp, báo cáo Bộ Giao thông vận tải.</p>
-<p><strong>Điều 8. Thủ tục cấp giấy phép lái xe quốc tế</strong></p>
-<p>1. Cá nhân nộp đơn đề nghị cấp IDP theo mẫu quy định tại Phụ lục IV ban hành kèm theo Thông tư này. Khi nộp đơn phải xuất trình bản chính giấy phép lái xe quốc gia do Việt Nam cấp, hộ chiếu, thẻ thường trú (đối với người nước ngoài) còn giá trị để kiểm tra, đối chiếu.</p>
-<p>2. Trình tự cấp IDP</p>
-<p>a) Cá nhân nộp đơn đề nghị cấp IDP theo quy định tại khoản 1 Điều này trực tiếp tại Tổng cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải để thực hiện kiểm tra tính chính xác và hợp pháp của việc cấp IDP. Trường hợp đơn đề nghị không đúng theo quy định thì hướng dẫn thực hiện ngay khi tiếp nhận;</p>
-<p>b) Trong thời hạn không quá 05 ngày làm việc, kể từ ngày nhận được đơn đề nghị cấp IDP, Tổng cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải thực hiện việc cấp IDP cho cá nhân; trường hợp không cấp IDP thì phải trả lời và nêu rõ lý do.</p>
-<p>3. Trường hợp IDP bị mất hoặc hư hỏng, cá nhân lập đơn đề nghị cấp lại theo quy định tại khoản 1 Điều này.</p>
-<p>4. Không cấp IDP đối với các trường hợp sau đây:</p>
-<p>a) Giấy phép lái xe quốc gia bị tẩy xóa, hư hỏng không còn đủ các thông tin cần thiết hoặc có sự khác biệt về nhận dạng;</p>
-<p>b) Giấy phép lái xe quốc gia không do cơ quan có thẩm quyền cấp theo quy định.</p>
-<p>5. Trường hợp phát hiện cá nhân có hành vi gian dối để được cấp IDP, tẩy xóa hoặc làm sai lệch thông tin trên IDP được cấp, ngoài việc bị cơ quan cấp IDP ra quyết định thu hồi IDP, cá nhân đó còn phải chịu trách nhiệm trước pháp luật và không được cấp IDP trong thời hạn 03 năm, kể từ ngày bị phát hiện hành vi vi phạm.</p>
-<p><strong>Điều 9. Quy trình cấp, quản lý giấy phép lái xe quốc tế</strong></p>
-<p>1. Sở Giao thông vận tải</p>
-<p>a) Tiếp nhận đơn đề nghị cấp IDP và sử dụng hệ thống thông tin quản lý IDP do Tổng cục Đường bộ Việt Nam xây dựng để lập hồ sơ điện tử;</p>
-<p>b) Sao chụp hộ chiếu, thẻ thường trú (đối với người nước ngoài) để kiểm tra, đối chiếu trong quá trình thực hiện cấp IDP;</p>
-<p>c) Kiểm tra, cập nhật, xác thực hồ sơ điện tử vào hệ thống thông tin quản lý IDP;</p>
-<p>d) Xác thực chữ ký số của người có thẩm quyền ký trên các hồ sơ điện tử cấp IDP;</p>
-<p>đ) Thực hiện quy trình in IDP;</p>
-<p>e) Kiểm tra chất lượng IDP sau khi in và đồng bộ dữ liệu vào hệ thống thông tin quản lý IDP của Tổng cục Đường bộ Việt Nam theo quy định.</p>
-<p>2. Tổng cục Đường bộ Việt Nam</p>
-<p>a) Tiếp nhận, quản lý dữ liệu IDP đã được cập nhật từ các Sở Giao thông vận tải để đồng bộ vào dữ liệu hệ thống thông tin quản lý IDP;</p>
-<p>b) Cập nhật, vận hành hệ thống thông tin quản lý IDP theo quy định;</p>
-<p>c) Trường hợp tiếp nhận đơn đề nghị cấp IDP của cá nhân, thì thực hiện như quy trình tại khoản 1 Điều này.</p>
-<p><strong>Điều 10. Sử dụng giấy phép lái xe quốc tế do Việt Nam cấp</strong></p>
-<p>1. Người có IDP do Việt Nam cấp khi điều khiển phương tiện cơ giới tham gia giao thông trên lãnh thổ nước tham gia Công ước Viên phải mang theo IDP và giấy phép lái xe quốc gia; tuân thủ pháp luật giao thông đường bộ của nước sở tại.</p>
-<p>2. IDP do Việt Nam cấp không có giá trị sử dụng trong lãnh thổ Việt Nam.</p>
-<p><strong>Điều 11. Sử dụng giấy phép lái xe quốc tế do các nước tham gia Công </strong><strong>ước</strong><strong> Viên cấp tại Việt Nam</strong></p>
-<p>1. Người có IDP do các nước tham gia Công ước Viên cấp khi điều khiển phương tiện giao thông cơ giới đường bộ trên lãnh thổ Việt Nam phải mang theo IDP và giấy phép lái xe quốc gia được cấp phù hợp với hạng xe điều khiển; phải tuân thủ pháp luật giao thông đường bộ của Việt Nam.</p>
-<p>2. Người có IDP vi phạm pháp luật về giao thông đường bộ Việt Nam mà bị tước quyền sử dụng IDP có thời hạn thì thời hạn bị tước không quá thời gian người lái xe được phép cư trú tại lãnh thổ Việt Nam.</p>
-<p><strong>Điều 12. Hiệu lực thi hành</strong></p>
-<p>Thông tư này có hiệu lực kể từ ngày 01 tháng 10 năm 2015.</p>
-<p><strong>* Lệ phí</strong> cấp, đổi giấy phép lái xe IDP/lần (Thông tư số: 73/2012/TT-BTC ngày 14/5/2012).</p>
-<p>- GPLX vật liệu IDP/lần: <strong>135.000 đồng</strong></p>",
-image: "",
-position: "0"
-}
-]
-},
-{
-id: "97",
-title: "DANH SÁCH QUỐC GIA THAM GIA CÔNG ƯỚC VIÊN 1968",
-category_id: "14",
-type_id: "1",
-position: "3",
-type_name: "Text",
-content: [
-{
-id: "919",
-post_id: "97",
-title: "DANH SÁCH",
-detail: "<p><strong>DANH SÁCH 73 NƯỚC THAM GIA CÔNG ƯỚC VIÊN 1968 -</strong><strong> Văn bản số 299 ngày 19 tháng 01 năm 2016 của Tổng cục ĐBVN.</strong></p>
-<p><strong>1. Republic of Albania                                  </strong></p>
-<p><strong>2. Republic of Armenia                                 </strong></p>
-<p><strong>3. Republic of Austria                                  </strong></p>
-<p><strong>4. Republic of Azerbaijan                           </strong></p>
-<p><strong>5. Commonwealth of Bahamas                                </strong></p>
-<p><strong>6. Kingdom of Bahrain                                 </strong></p>
-<p><strong>7. Republic of Belarus                                </strong></p>
-<p><strong>8. Kingdom of Belgium                                 </strong></p>
-<p><strong>9. Bosnia and Herzegovina     </strong></p>
-<p><strong>10. Federative Republic of Brazil</strong></p>
-<p><strong>11. Republic of Bulgaria                               </strong></p>
-<p><strong>12. Central African Republic  </strong></p>
-<p><strong>13. Republic of Côte d'Ivoire                       </strong></p>
-<p><strong>14. Republic of Croatia                                 </strong></p>
-<p><strong>15. Republic of Cuba                                    </strong></p>
-<p><strong>16. Czech Republic                   </strong></p>
-<p><strong>17. Democratic Republic of Congo</strong></p>
-<p><strong>18. Kingdom of Denmark                           </strong></p>
-<p><strong>19. Republic of Estonia                             </strong></p>
-<p><strong>20. Republic of Finland                               </strong></p>
-<p><strong>21. Republic of France                              </strong></p>
-<p><strong>22. Georgia                              </strong></p>
-<p><strong>23. Federal Republic of Germany                           </strong></p>
-<p><strong>24. Greece ( Hellenic ) Republic           </strong></p>
-<p><strong>25. Co-operative Republic of Guyana</strong></p>
-<p><strong>26. Hungary                           </strong></p>
-<p><strong>27. Islamic Republic of Iran</strong></p>
-<p><strong>28. State of Israel                               </strong></p>
-<p><strong>29. Republic of Italy                                </strong></p>
-<p><strong>30. Republic of Kazakhstan                    </strong></p>
-<p><strong>31. Republic of Kenya                              </strong></p>
-<p><strong>32. State of Kuwait                              </strong></p>
-<p><strong>33. Republic of Kyrgyzstan                      </strong></p>
-<p><strong>34. Republic of Latvia                               </strong></p>
-<p><strong>35. Republic of Liberia                             </strong></p>
-<p><strong>36. Republic of Lithuania                         </strong></p>
-<p><strong>37. Grand Duchy of Luxembourg</strong></p>
-<p><strong>38. Duchy of Monaco</strong></p>
-<p><strong>39. Mongolia</strong></p>
-<p><strong>40. Montenegro</strong></p>
-<p><strong>41. Kingdom of Morocco</strong></p>
-<p><strong>42. Kingdom of Netherlands </strong></p>
-<p><strong>43. Republic of Niger</strong></p>
-<p><strong>44. Kingdom of Norway</strong></p>
-<p><strong>45. Islamic Republic of Pakistan</strong></p>
-<p><strong>46. Republic of Peru</strong></p>
-<p><strong>47. Republic of the Philippines</strong></p>
-<p><strong>48. Republic of Poland</strong></p>
-<p><strong>49. Republic of Portugal</strong></p>
-<p><strong>50. State of Qatar</strong></p>
-<p><strong>51. Republic of Moldova</strong></p>
-<p><strong>52. Romania</strong></p>
-<p><strong>53. Russian Federation</strong></p>
-<p><strong>54. Republic of San Marino</strong></p>
-<p><strong>55. Republic of Senegal</strong></p>
-<p><strong>56. Republic of Serbia </strong></p>
-<p><strong>57. Republic of Seychelles</strong></p>
-<p><strong>58. Slovak Republic</strong></p>
-<p><strong>59. Republic of Slovenia</strong></p>
-<p><strong>60. Republic of South Africa</strong></p>
-<p><strong>61. Sweden</strong></p>
-<p><strong>62. Confederation of Switzerland</strong></p>
-<p><strong>63. Republic of Tajikistan</strong></p>
-<p><strong>64. Republic of Macedonia</strong></p>
-<p><strong>65. Republic of Tunisia</strong></p>
-<p><strong>66. Republic of Turkey</strong></p>
-<p><strong>67. Turkmenistan</strong></p>
-<p><strong>68. Ukraine</strong></p>
-<p><strong>69. United Arab Emirates </strong></p>
-<p><strong>70. Republic of Uruguay</strong></p>
-<p><strong>71. Republic of Uzbekistan</strong></p>
-<p><strong>72. Socialist Republic of Viet Nam</strong></p>
-<p><strong>73. Republic of Zimbabwe</strong></p>
-<p> </p>
-<p> </p>
-<p> </p>",
-image: "",
-position: "0"
-}
-]
-},
-{
-id: "92",
-title: "MẪU GIẤY PHÉP LÁI XE QUỐC TẾ ( IDP ) & PHỤ LỤC II ( BẢNG CHUYỂN ĐỔI GPLX )",
-category_id: "14",
-type_id: "4",
-position: "7",
-type_name: "PDF",
-content: [
-{
-id: "910",
-post_id: "92",
-title: "GIẤY PHÉP LÁI XE QUỐC TẾ",
-detail: "",
-image: "gplx_quoc_te",
-position: "0"
-}
-]
-},
-{
-id: "88",
-title: " ĐƠN ĐỀ NGHỊ ĐỔI ĐỂ CẤP GIẤY PHÉP LÁI XE - PHỤ LỤC 27",
-category_id: "14",
-type_id: "4",
-position: "9",
-type_name: "PDF",
-content: [
-{
-id: "906",
-post_id: "88",
-title: "ĐƠN ĐỀ NGHỊ ĐỔI GIẤY PHÉP LÁI XE - PHỤ LỤC 27",
-detail: "",
-image: "cap_lai_giay_phep",
-position: "0"
-}
-]
-},
-{
-id: "116",
-title: "ĐƠN ĐỀ NGHỊ ĐỔI GIẤY PHÉP LÁI XE NGƯỜI NƯỚC NGOÀI - PHỤ LỤC 28",
-category_id: "14",
-type_id: "4",
-position: "10",
-type_name: "PDF",
-content: [
-{
-id: "997",
-post_id: "116",
-title: "ĐƠN ĐỀ NGHỊ ĐỔI GIẤY PHÉP LÁI XE CƠ GIỚI ĐƯỜNG BỘ",
-detail: "",
-image: "don_doi_gplx",
-position: "0"
-}
-]
-},
-{
-id: "117",
-title: "ĐƠN ĐỀ NGHỊ CẤP GIẤY PHÉP LÁI XE QUỐC TẾ - IDP",
-category_id: "14",
-type_id: "4",
-position: "11",
-type_name: "PDF",
-content: [
-{
-id: "998",
-post_id: "117",
-title: "ĐƠN ĐỀ NGHỊ CẤP GIẤY PHÉP LÁI XE QUỐC TẾ",
-detail: "",
-image: "don_cap_gplx_quoc_te",
-position: "0"
-}
-]
-}
-]
-}
+    {
+        "id": "5",
+        "name": "Hệ Thống GPLX",
+        "parent_id": null,
+        "type_id": "1",
+        "version": "1",
+        "icon": "icon_main_he_thong_gplx",
+        "position": "1",
+        "count": "4",
+        "type_name": "NhieuThongTin",
+        "small_topic": [
+            {
+                "id": "4",
+                "title": "GIẤY PHÉP LÁI XE CỦA VIỆT NAM",
+                "category_id": "5",
+                "type_id": "1",
+                "position": "1",
+                "type_name": "Text",
+                "content": [
+                    {
+                        "id": "3",
+                        "post_id": "4",
+                        "title": "GIẤY PHÉP LÁI XE DÂN SỰ",
+                        "detail": "<p>Giấy phép lái xe là chứng chỉ cấp cho người điều khiển xe cơ giới (người lái xe) để được phép lái một hoặc một số loại xe cơ giới.</p>\r\n<p>Giấy phép lái xe có giá trị sử dụng trong phạm vi lãnh thổ Việt Nam và lãnh thổ của nước hoặc vùng lãnh thổ mà Việt Nam ký cam kết công nhận giấy phép lái xe của nhau.</p>\r\n<p>Căn cứ vào kiểu loại, công suất động cơ, tải trọng và công dụng của xe cơ giới, giấy phép lái xe được phân loại thành giấy phép lái xe không thời hạn và giấy phép lái xe có thời hạn.</p>\r\n<p>Việc lái xe mà không có giấy phép lái xe hợp lệ, quá hạn sử dụng, lái xe không đúng loại xe ghi trong giấy phép lái xe là vi phạm pháp luật.</p>",
+                        "image": "",
+                        "position": "0"
+                    },
+                    {
+                        "id": "4",
+                        "post_id": "4",
+                        "title": "Thông tư số: 58/2015/TT-BGTVT ngày 20/10/2015 của Bộ Giao thông vận tải",
+                        "detail": "<p><strong>HỆ THỐNG GIẤY PHÉP LÁI XE</strong></p>\r\n<p><strong>Điều 24. Phân hạng giấy phép lái</strong><strong> xe</strong></p>\r\n<p>1. Hạng A1 cấp cho</p>\r\n<p>a) Người lái xe để điều khiển xe mô tô hai bánh có dung tích xy lanh từ 50 cm<sup>3</sup> đến dưới 175 cm<sup>3</sup>;</p>\r\n<p>b) Người khuyết tật điều khiển xe mô tô ba bánh dùng cho người khuyết tật.</p>\r\n<p>2. Hạng A2 cấp cho</p>\r\n<p>Người lái xe để điều khiển xe mô tô hai bánh có dung tích xy lanh từ 175 cm<sup>3</sup> trở lên và các loại xe quy định cho giấy phép lái xe hạng A1.</p>\r\n<p>3. Hạng A3 cấp cho</p>\r\n<p>Người lái xe để điều khiển xe mô tô ba bánh, các loại xe quy định cho giấy phép lái xe hạng A1 và các xe tương tự.</p>\r\n<p>4. Hạng A4 cấp cho</p>\r\n<p>Người lái xe để điều khiển các loại máy kéo nhỏ có trọng tải đến 1.000 kg.</p>\r\n<p>5. Hạng B1 số tự động cấp cho</p>\r\n<p>Người không hành nghề lái xe để điều khiển các loại xe sau đây:</p>\r\n<p>a) Ô tô số tự động chở người đến 9 chỗ ngồi, kể cả chỗ ngồi cho người lái xe;</p>\r\n<p>b) Ô tô tải, kể cả ô tô tải chuyên dùng số tự động có trọng tải thiết kế dưới500 kg.</p>\r\n<p>6. Hạng B1 cấp cho</p>\r\n<p>Người không hành nghề lái xe để điều khiển các loại xe sau đây:</p>\r\n<p>a) Ô tô chở người đến 9 chỗ ngồi, kể cả chỗ ngồi cho người lái xe;</p>\r\n<p>b) Ô tô tải, kể cả ô tô tải chuyên dùng có trọng tải thiết kế dưới 3.500 kg;</p>\r\n<p>c) Máy kéo kéo một rơ moóc có trọng tải thiết kế dưới 3.500 kg.</p>\r\n<p>7. Hạng B2 cấp cho</p>\r\n<p>Người hành nghề lái xe để điều khiển các loại xe sau đây:</p>\r\n<p>a) Ô tô chuyên dùng có trọng tải thiết kế dưới 3.500 kg;</p>\r\n<p>b) Các loại xe quy định cho giấy phép lái xe hạng B1.</p>\r\n<p>8. Hạng C cấp cho</p>\r\n<p>Người lái xe để điều khiển các loại xe sau đây:</p>\r\n<p>a) Ô tô tải, kể cả ô tô tải chuyên dùng, ô tô chuyên dùng có trọng tải thiết kế từ 3500 kg trở lên;</p>\r\n<p>b) Máy kéo kéo một rơ moóc có trọng tải thiết kế từ 3.500 kg trở lên;</p>\r\n<p>c) Các loại xe quy định cho giấy phép lái xe hạng B1, B2.</p>\r\n<p>9. Hạng D cấp cho</p>\r\n<p>Người lái xe để điều khiển các loại xe sau đây:</p>\r\n<p>a) Ô tô chở người từ 10 đến 30 chỗ ngồi, kể cả chỗ ngồi cho người lái xe;</p>\r\n<p>b) Các loại xe quy định cho giấy phép lái xe hạng B1, B2 và C.</p>\r\n<p>10. Hạng E cấp cho</p>\r\n<p>Người lái xe để điều khiển các loại xe sau đây:</p>\r\n<p>a) Ô tô chở người trên 30 chỗ ngồi;</p>\r\n<p>b) Các loại xe quy định cho giấy phép lái xe hạng B1, B2, C và D.</p>\r\n<p>11. Người có giấy phép lái xe các hạng B1, B2, C, D và E</p>\r\n<p>Khi điều khiển các loại xe tương ứng được kéo thêm một rơ moóc có trọng tải thiết kế không quá 750 kg.</p>\r\n<p>12. Hạng F cấp cho</p>\r\n<p>Người đã có giấy phép lái xe các hạng B2, C, D và E để điều khiển các loại xe ô tô tương ứng kéo rơ moóc có trọng tải thiết kế lớn hơn 750 kg, sơ mi rơ moóc, ô tô khách nối toa, được quy định cụ thể như sau:</p>\r\n<p>a) Hạng FB2 cấp cho người lái xe ô tô để lái các loại xe quy định tại giấy phép lái xe hạng B2 có kéo rơ moóc và được điều khiển các loại xe quy định cho giấy phép lái xe hạng B1 và hạng B2;</p>\r\n<p>b) Hạng FC cấp cho người lái xe ô tô để lái các loại xe quy định tại giấy phép lái xe hạng C có kéo rơ moóc, ô tô đầu kéo kéo sơ mi rơ moóc và được điều khiển các loại xe quy định cho giấy phép lái xe hạng B1, B2, C và hạng FB2;</p>\r\n<p>c) Hạng FD cấp cho người lái xe ô tô để lái các loại xe quy định tại giấy phép lái xe hạng D có kéo rơ moóc và được điều khiển các loại xe quy định cho giấy phép lái xe hạng B1, B2, C, D và FB2;</p>\r\n<p>d) Hạng FE cấp cho người lái xe ô tô để lái các loại xe quy định tại giấy phép lái xe hạng E có kéo rơ moóc và được điều khiển các loại xe: ô tô chở khách nối toa và các loại xe quy định cho giấy phép lái xe hạng B1, B2, C, D, E, FB2, FD.</p>\r\n<p>13. Hạng giấy phép lái xe sử dụng cho </p>\r\n<p>Người lái xe Ô tô khách giường nằm, xe ô tô khách thành phố (sử dụng để kinh doanh vận tải hành khách bằng xe buýt) thực hiện theo quy định tại khoản 9 và khoản 10 Điều này. Số chỗ ngồi trên xe được tính theo số chỗ trên xe ô tô khách cùng kiểu loại hoặc xe ô tô có kích thước giới hạn tương đương chỉ bố trí ghế ngồi.</p>",
+                        "image": "",
+                        "position": "0"
+                    },
+                    {
+                        "id": "5",
+                        "post_id": "4",
+                        "title": "khong tieu de",
+                        "detail": "<p><strong>Điều 25. Thời hạn của giấy phép lái xe</strong></p>\r\n<p>1. Giấy phép lái xe hạng A1, A2, A3 không có thời hạn.</p>\r\n<p>2. Giấy phép lái xe hạng B1 có thời hạn đến khi người lái xe đủ 55 tuổi đối với nữ và đủ 60 tuổi đối với nam; trường hợp người lái xe trên 45 tuổi đối với nữ và trên 50 tuổi đối với nam thì giấy phép lái xe được cấp có thời hạn 10 năm, kể từ ngày cấp.</p>\r\n<p>3. Giấy phép lái xe hạng A4, B2 có thời hạn 10 năm, kể từ ngày cấp.</p>\r\n<p>4. Giấy phép lái xe hạng C, D, E, FB2, FC, FD, FE có thời hạn 05 năm, kể từ ngày cấp.</p>\r\n<p> </p>",
+                        "image": "",
+                        "position": "0"
+                    }
+                ]
+            },
+            {
+                "id": "7",
+                "title": "QUY ĐỊNH VỀ ĐỘ TUỔI, TIÊU CHUẨN SỨC KHỎE CỦA NGƯỜI LÁI XE",
+                "category_id": "5",
+                "type_id": "1",
+                "position": "2",
+                "type_name": "Text",
+                "content": [
+                    {
+                        "id": "11",
+                        "post_id": "7",
+                        "title": "Luật Giao thông đường bộ số: 23/2008/QH12 ngày 13/11/2008 của Quốc Hội",
+                        "detail": "<p><strong><span lang=\"VI\">Điều 60. Tuổi, sức khỏe của người lái xe</span></strong></p>\r\n<p><strong><span lang=\"VI\">1. Độ tuổi của người lái xe quy định</span></strong></p>\r\n<p><span lang=\"VI\">a) Người đủ 16 tuổi trở lên được lái xe gắn máy có dung tích xi-lanh dưới 50 cm<sup>3</sup>;</span></p>\r\n<p><span lang=\"VI\">b) Người đủ 18 tuổi trở lên được lái xe mô tô hai bánh, xe mô tô ba bánh có dung tích xi-lanh từ 50 cm<sup>3</sup> trở lên và các loại xe có kết cấu tương tự; xe ô tô tải, máy kéo có trọng tải dưới 3.500 kg; xe ô tô chở người đến 9 chỗ ngồi;</span></p>\r\n<p><span lang=\"VI\">c) Người đủ 21 tuổi trở lên được lái xe ô tô tải, máy kéo có trọng tải từ 3.500 kg trở lên; lái xe hạng B2 kéo rơ moóc (FB2);</span></p>\r\n<p><span lang=\"VI\">d) Người đủ 24 tuổi trở lên được lái xe ô tô chở người từ 10 đến 30 chỗ ngồi; lái xe hạng C kéo rơ moóc, sơ mi rơ moóc (FC);</span></p>\r\n<p><span lang=\"VI\">đ) Người đủ 27 tuổi trở lên được lái xe ô tô chở người trên 30 chỗ ngồi; lái xe hạng D kéo rơ moóc (FD);</span></p>\r\n<p><span lang=\"VI\">e) Tuổi tối đa của người lái xe ô tô chở người trên 30 chỗ ngồi là 50 tuổi đối với nữ và 55 tuổi đối với nam.</span></p>\r\n<p><strong><span lang=\"VI\">2. Người lái xe phải có sức khỏe phù hợp với loại xe, công dụng của xe</span></strong></p>\r\n<p><span lang=\"VI\">Bộ trưởng Bộ Y tế chủ trì, phối hợp với Bộ trưởng Bộ Giao thông vận tải quy định về tiêu chuẩn sức khỏe của người lái xe, việc khám sức khỏe định kỳ đối với người lái xe ô tô và quy định về cơ sở y tế khám sức khoẻ của người lái xe<em>.</em></span></p>\r\n<p><strong>* Giấy khám sức khỏe chỉ có giá trị 06 tháng</strong> kể từ ngày ký Kết luận theo Thông tư liên tịch số 24/2015 ngày 21/8/2015 liên Bộ Y tế và Bộ Giao thông vận tải.</p>",
+                        "image": "",
+                        "position": "0"
+                    }
+                ]
+            },
+            {
+                "id": "5",
+                "title": "SỬ DỤNG VÀ QUẢN LÝ GIẤY PHÉP LÁI XE",
+                "category_id": "5",
+                "type_id": "1",
+                "position": "3",
+                "type_name": "Text",
+                "content": [
+                    {
+                        "id": "7",
+                        "post_id": "5",
+                        "title": "Thông tư số: 58/2015/TT-BGTVT ngày 20/10/2015 của Bộ Giao thông vận tải",
+                        "detail": "<p><strong>Điều 45. Sử dụng và quản lý giấy phép lái xe</strong></p>\r\n<p>1. Mỗi người được cấp duy nhất 01 số quản lý giấy phép lái xe bằng vật liệu PET.</p>\r\n<p>2. Mỗi người được cấp 01 giấy phép lái xe bằng vật liệu PET không thời hạn (hạng A1, A2, A3) và 01 giấy phép lái xe bằng vật liệu PET có thời hạn (hạng A4, B1, B2, C, D, E và F).</p>\r\n<p>3. Người đã có giấy phép lái xe tích hợp của giấy phép lái xe có thời hạn và không thời hạn, nếu có nhu cầu tách giấy phép lái xe thì làm thủ tục tách giấy phép lái xe theo quy định tại Điều 50 của Thông tư này.</p>\r\n<p>4. Người có giấy phép lái xe chỉ được lái loại xe ghi trong giấy phép lái xe.</p>\r\n<p>5. Khi đổi, cấp lại, cấp giấy phép lái xe nâng hạng, cơ quan cấp giấy phép lái xe cắt góc giấy phép lái xe cũ và giao cho người lái xe bảo quản.</p>\r\n<p>6. Giấy phép lái xe phải được mang theo người khi lái xe.</p>\r\n<p>7. Giấy phép lái xe bị tước quyền sử dụng hoặc thu hồi theo quy định của pháp luật.</p>\r\n<p>8. Người có giấy phép lái xe hạng B1 muốn hành nghề lái xe và người có nhu cầu nâng hạng giấy phép lái xe phải dự khóa đào tạo và sát hạch để được cấp giấy phép lái xe mới.</p>\r\n<p>9. Người có giấy phép lái xe hạng B1 số tự động không được lái loại xe ô tô số cơ khí (số sàn); nếu có nhu cầu lái xe ô tô số cơ khí, phải học bổ sung và sát hạch nội dung thực hành lái xe để được cấp giấy phép lái xe hạng B1.</p>\r\n<p>10. Người nước ngoài hoặc người Việt Nam cư trú ở nước ngoài có nhu cầu lái xe ở Việt Nam thực hiện như sau:</p>\r\n<p>a) Nếu có giấy phép lái xe quốc gia phải làm thủ tục đổi sang giấy phép lái xe tương ứng của Việt Nam;</p>\r\n<p>b) Trường hợp điều ước quốc tế về giấy phép lái xe mà Việt Nam là thành viên có quy định khác thì áp dụng quy định của điều ước quốc tế đó.</p>\r\n<p>11. Giấy phép lái xe hạng A1, A2 do ngành Công an cấp trước ngày 01 tháng 8 năm 1995, bằng lái xe và giấy phép lái xe do ngành Giao thông vận tải cấp còn giá trị được tiếp tục sử dụng và chuyển đổi theo lộ trình quy định tại Điều 57 của Thông tư này.</p>\r\n<p>12. Người có giấy phép lái xe hạng FD, FE do ngành Giao thông vận tải cấp lần đầu trước ngày 01 tháng 7 năm 2009, nếu có nhu cầu điều khiển xe ô tô tải kéo rơ moóc hoặc xe ô tô đầu kéo kéo sơ mi rơ moóc được đổi bổ sung hạng FC.</p>\r\n<p>13. Giấy phép lái xe hợp lệ là giấy phép lái xe do Tổng cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải cấp, có số phôi giấy phép lái xe trùng với số phôi trong hệ thống thông tin quản lý giấy phép lái xe.</p>\r\n<p>14. Người tẩy xoá, làm sai lệch các thông tin trên giấy phép lái xe; sử dụng giấy phép lái xe hoặc hồ sơ lái xe giả; có hành vi gian dối khác để được đổi, cấp lại, cấp mới giấy phép lái xe, ngoài việc bị cơ quan quản lý giấy phép lái xe ra quyết định thu hồi giấy phép lái xe và hồ sơ gốc còn phải chịu trách nhiệm trước pháp luật và không được cấp giấy phép lái xe trong thời hạn 05 năm, kể từ ngày phát hiện hành vi vi phạm, nếu có nhu cầu cấp lại giấy phép lái xe phải học và sát hạch như trường hợp cấp giấy phép lái xe lần đầu.</p>\r\n<p> </p>\r\n<p> </p>",
+                        "image": "",
+                        "position": "0"
+                    }
+                ]
+            },
+            {
+                "id": "6",
+                "title": "MẪU GIẤY PHÉP LÁI XE VẬT LIỆU PET. VIỆT NAM HIỆN HÀNH",
+                "category_id": "5",
+                "type_id": "1",
+                "position": "4",
+                "type_name": "Text",
+                "content": [
+                    {
+                        "id": "8",
+                        "post_id": "6",
+                        "title": "Thông tư số: 35/2010/TT-BGTVT ngày 15/11/2010 của Bộ Giao thông vận tải",
+                        "detail": "<p>Mặt trước</p>",
+                        "image": "gplx_pet_1",
+                        "position": "0"
+                    },
+                    {
+                        "id": "9",
+                        "post_id": "6",
+                        "title": "khong tieu de",
+                        "detail": "<p>Mặt sau</p>",
+                        "image": "gplx_pet_2",
+                        "position": "0"
+                    },
+                    {
+                        "id": "10",
+                        "post_id": "6",
+                        "title": "khong tieu de",
+                        "detail": "<p>In từng hạng giấy phép lái xe cơ giới đ­ường bộ mà ng­ười lái xe đư­ợc phép điều khiển (hiển thị bằng tiếng Việt và tiếng Anh).</p>\r\n<p>Quy cách:</p>\r\n<p>Kích thư­ớc: 85,6 x 53,98 x 0,76 mm (theo Tiêu chuẩn ICAO loại ID-1);</p>\r\n<p>Tiêu đề \"GIẤY PHÉP LÁI XE/ DRIVER’S LICENSE\", \"CÁC LOẠI XE CƠ GIỚI Đ­ƯỜNG BỘ ĐƯỢC ĐIỀU KHIỂN\", chữ \"Số/No.\" và \" Ngày trúng tuyển\" có màu đỏ, các chữ khác in màu đen;</p>\r\n<p>Ảnh của ng­ười lái xe đ­ược in trực tiếp trên giấy phép lái xe;</p>\r\n<p>Có lớp màng phủ bảo an lên giấy phép lái xe;</p>\r\n<p>Phôi được làm bằng vật liệu <strong>PET</strong><strong>.</strong> hoặc vật liệu có tiêu chuẩn kỹ thuật tương đương, có hoa văn màu vàng rơm và các ký hiệu bảo mật.</p>",
+                        "image": "",
+                        "position": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "11",
+        "name": "Tra Cứu Thông Tin.Org",
+        "parent_id": null,
+        "type_id": "1",
+        "version": "1",
+        "icon": "icon_main_tim_kiem",
+        "position": "2",
+        "count": "5",
+        "type_name": "NhieuThongTin",
+        "small_topic": [
+            {
+                "id": "119",
+                "title": "Website - Sở GTVT TP. HCM",
+                "category_id": "11",
+                "type_id": "5",
+                "position": "1",
+                "type_name": "url",
+                "content": [
+                    {
+                        "id": "1009",
+                        "post_id": "119",
+                        "title": "Website Sở GTVT TP. HCM",
+                        "detail": "<p>http://www.sgtvt.hochiminhcity.gov.vn</p>",
+                        "image": "",
+                        "position": "1"
+                    }
+                ]
+            },
+            {
+                "id": "121",
+                "title": "Facebook - Sở GTVT TP. HCM",
+                "category_id": "11",
+                "type_id": "5",
+                "position": "2",
+                "type_name": "url",
+                "content": [
+                    {
+                        "id": "1011",
+                        "post_id": "121",
+                        "title": "Facebook - Sở GTVT TP. HCM",
+                        "detail": "<p>http://m.facebook.com/sgtvthcm</p>",
+                        "image": "",
+                        "position": "1"
+                    }
+                ]
+            },
+            {
+                "id": "120",
+                "title": "DỊCH VỤ CÔNG - ĐỔI GPLX",
+                "category_id": "11",
+                "type_id": "5",
+                "position": "3",
+                "type_name": "url",
+                "content": [
+                    {
+                        "id": "1010",
+                        "post_id": "120",
+                        "title": "Xem hướng dẫn sử dụng hệ thống trước khi dùng dịch vụ công - đổi GPLX",
+                        "detail": "<p><strong>http://www.gplx-dichvucong.hochiminhcity.gov.vn</strong></p>",
+                        "image": "",
+                        "position": "0"
+                    }
+                ]
+            },
+            {
+                "id": "99",
+                "title": "TRA CỨU GPLX.GOV.VN",
+                "category_id": "11",
+                "type_id": "5",
+                "position": "3",
+                "type_name": "url",
+                "content": [
+                    {
+                        "id": "921",
+                        "post_id": "99",
+                        "title": "1. Nhập số GPLX (mặt trước); 2. Nhập số seri (mặt sau); 3. Chọn loại GPLX (Bìa; PET; Thời hạn, Không thời hạn); 4. Tra cứu",
+                        "detail": "<p><strong>http://gplx.gov.vn</strong></p>",
+                        "image": "",
+                        "position": "0"
+                    }
+                ]
+            },
+            {
+                "id": "118",
+                "title": "DANH SÁCH ĐIỂM ĐỔI GPLX",
+                "category_id": "11",
+                "type_id": "1",
+                "position": "15",
+                "type_name": "Text",
+                "content": [
+                    {
+                        "id": "1002",
+                        "post_id": "118",
+                        "title": "ĐIỂM ĐỔI GPLX  TẠI TP. HCM",
+                        "detail": "<p><strong>· Cơ sở 1:</strong> 51/2 Thành Thái, Phường 14, Quận 10. </p>\r\n<p><strong>· Cơ sở 2:</strong> 08 Nguyễn Ảnh Thủ, Phường Trung Mỹ Tây, Quận 12. </p>\r\n<p><strong>· Cơ sở 3:</strong> 256 Dương Đình Hội, Phường Tăng Nhơn Phú B, Quận 9.  </p>\r\n<p><strong>· Cơ sở 4:</strong> 16A Lê Hồng Phong (nối dài), Phường 12, Quận 10.</p>\r\n<p><strong>· Cơ sở 5: </strong>111 Tân Sơn Nhì, Phường Tân Sơn Nhì, Quận Tân Phú. </p>\r\n<p><strong>· Cơ sở 6:</strong> 252 Lý Chính Thắng, Phường 9, Quận 3.</p>\r\n<p>+ Tiếp nhận hồ sơ đổi GPLX nước ngoài. <br> + Tổng đài (08)1081 về cấp GPLX quốc tế. <br> + Hồ sơ đăng ký đổi giấy phép lái xe qua mạng.</p>\r\n<p><strong>· Cơ sở 7:</strong> 937 Tạ Quang Bửu, Phường 5, Quận 8. </p>\r\n<p>+ Tiếp nhận hồ sơ đổi GPLX ô tô đăng ký qua Tổng đài 08. 1081.  <br> + Nhận trực tiếp hồ sơ cấp GPLX quốc tế.</p>\r\n<p><strong>· Cơ sở 8:</strong> Bưu cục của Viettel, 158 đường Cây Trâm, Phường 9, Quận Gò Vấp.</p>\r\n<p><strong>· Cơ sở 9:</strong> Bưu cục của Viettel, 154 đường Tên Lửa, Phường Bình Trị Đông B, Quận Bình Tân.</p>\r\n<p><strong>· Cơ sở 10:</strong> Bưu cục của Bưu điện, 3 Phan Đăng Lưu, Phường 3, Quận Bình Thạnh.</p>\r\n<p><strong>· Cơ sở 11:</strong> Bưu cục của Bưu điện, E9/37 Nguyễn Hữu Trí, T.T Tân Túc, Huyện Bình Chánh.</p>\r\n<p><strong>· Cơ sở 12:</strong> Bưu cục của Bưu điện, 1441 Huỳnh Tấn Phát, Phường Phú Mỹ, Quận 7.</p>\r\n<p> </p>\r\n<p> </p>\r\n<p> </p>",
+                        "image": "",
+                        "position": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "12",
+        "name": "Cấp, đổi giấy phép lái xe",
+        "parent_id": null,
+        "type_id": "1",
+        "version": "1",
+        "icon": "icon_main_cap_lai",
+        "position": "9",
+        "count": "5",
+        "type_name": "NhieuThongTin",
+        "small_topic": [
+            {
+                "id": "66",
+                "title": "ĐỔI GIẤY PHÉP LÁI XE DO NGÀNH GIAO THÔNG VẬN TẢI CẤP",
+                "category_id": "12",
+                "type_id": "1",
+                "position": "2",
+                "type_name": "Text",
+                "content": [
+                    {
+                        "id": "870",
+                        "post_id": "66",
+                        "title": "Thông tư số: 58/2015/TT-BGTVT ngày 20/10/2015 của Bộ Giao thông vận tải",
+                        "detail": "<p><strong>Điều 49. Đổi giấy phép lái xe</strong></p>\r\n<p>1. Giấy phép lái xe bằng giấy bìa còn thời hạn sử dụng được đổi sang giấy phép lái xe bằng vật liệu PET theo lộ trình quy định tại Điều 57 của Thông tư này.</p>\r\n<p>2. Người có giấy phép lái xe còn thời hạn hoặc quá thời hạn sử dụng dưới 03 tháng, kể từ ngày hết hạn, người có giấy phép lái xe bị hỏng, nếu có nhu cầu tiếp tục sử dụng được xét đổi giấy phép lái xe.</p>\r\n<p>3. Người có giấy phép lái xe hạng E đủ 55 tuổi đối với nam và 50 tuổi đối với nữ, có nhu cầu tiếp tục lái xe, nếu đủ sức khỏe theo quy định, được xét đổi giấy phép lái xe từ hạng D trở xuống.</p>\r\n<p>4. Trường hợp năm sinh, họ, tên, tên đệm ghi trên giấy phép lái xe có sai lệch với giấy chứng minh nhân dân thì cơ quan quản lý giấy phép lái xe làm thủ tục đổi giấy phép lái xe mới phù hợp với thông tin ghi trong giấy chứng minh nhân dân.</p>\r\n<p><strong>5. Đối tượng được đổi giấy phép lái xe:</strong></p>\r\n<p>- Người Việt Nam được đào tạo, sát hạch, cấp giấy phép lái xe tại Việt Nam;</p>\r\n<p>- Người có giấy phép lái xe của ngành giao thông vận tải cấp bị hỏng;</p>\r\n<p>- Người Việt Nam, người nước ngoài định cư lâu dài ở Việt Nam đã có giấy phép lái xe Việt Nam đổi từ giấy phép lái xe nước ngoài, khi hết hạn nếu có nhu cầu được đổi giấy phép lái xe;</p>\r\n<p>- Người có giấy phép lái xe quân sự còn thời hạn sử dụng khi ra quân (phục viên, xuất ngũ, chuyển ngành, nghỉ hưu...), nếu có nhu cầu được đổi giấy phép lái xe;</p>\r\n<p>- Cán bộ, chiến sĩ công an có giấy phép lái xe do ngành Công an cấp sau ngày 31 tháng 7 năm 1995 còn thời hạn sử dụng, khi ra khỏi ngành hoặc nghỉ hưu, nếu có nhu cầu được đổi giấy phép lái xe;</p>\r\n<p>- Người có giấy phép lái xe mô tô của ngành Công an cấp trước ngày 01 tháng 8 năm 1995 bị hỏng có nhu cầu đổi, có tên trong sổ lưu được xét đổi giấy phép lái xe mới;</p>\r\n<p><strong>6. Không đổi giấy phép lái xe đối với các trường hợp sau:</strong></p>\r\n<p>- Giấy phép lái xe quân sự, công an quá thời hạn sử dụng theo quy định, bị tẩy xóa, rách nát không còn đủ các yếu tố cần thiết để đổi giấy phép lái xe hoặc có sự khác biệt về nhận dạng;</p>\r\n<p>- Giấy phép lái xe do ngành Giao thông vận tải cấp nhưng không có trong hệ thống thông tin giấy phép lái xe, bảng kê danh sách cấp giấp phép lái xe (sổ quản lý);</p>\r\n<p>- Quyết định ra quân tính đến ngày làm thủ tục đổi quá thời hạn 06 tháng đối với giấy phép lái xe quân sự do Bộ Quốc phòng cấp;</p>\r\n<p>- Người không đủ tiêu chuẩn sức khỏe theo quy định.</p>\r\n<p><strong>7. Thời hạn sử dụng và hạng xe được phép điều khiển:</strong></p>\r\n<p>- Giấy phép lái xe quốc gia cấp cho người đổi được điều khiển nhiều hạng xe khác nhau được đổi sang giấy phép lái xe để điều khiển các hạng xe tương ứng của Việt Nam;</p>\r\n<p>- Giấy phép lái xe quân sự có hiệu lực được phép lái nhiều hạng xe khác nhau được đổi sang giấy phép lái xe ngành giao thông vận tải có hiệu lực lái các hạng xe tương ứng.</p>\r\n<p><strong>8. Thời gian đổi giấy phép lái xe:</strong></p>\r\n<p>- Không quá 05 ngày làm việc, kể từ khi nhận đủ hồ sơ hợp lệ theo quy định;</p>\r\n<p>- Khi đổi giấy phép lái xe, cơ quan cấp giấy phép lái xe cắt góc giấy phép lái xe cũ (trừ giấy phép lái xe do nước ngoài cấp).</p>\r\n<p><strong>Điều 50. Hồ sơ đổi giấy phép lái xe do ngành Giao thông vận tải cấp</strong></p>\r\n<p>Người lái xe lập 01 bộ hồ sơ, gửi trực tiếp tại Tổng cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải. Hồ sơ bao gồm:</p>\r\n<p>1. Đơn đề nghị đổi, cấp lại giấy phép lái xe theo mẫu quy định tại Phụ lục 27 ban hành kèm theo Thông tư này.</p>\r\n<p>2. Giấy chứng nhận sức khỏe do cơ sở y tế có thẩm quyền cấp theo quy định, trừ các đối tượng sau:</p>\r\n<p>a) Người có giấy phép lái xe hạng A1, A2, A3;</p>\r\n<p>b) Người chuyển đổi giấy phép lái xe hạng A4, giấy phép lái xe ô tô còn thời hạn sử dụng trên 03 (ba) tháng bằng giấy bìa sang giấy phép lái xe bằng vật liệu PET;</p>\r\n<p>c) Trường hợp tách giấy phép lái xe có thời hạn và không thời hạn.</p>\r\n<p>3. Bản sao giấy phép lái xe, giấy chứng minh nhân dân hoặc hộ chiếu còn thời hạn có ghi số giấy chứng minh nhân dân (đối với người Việt Nam) hoặc hộ chiếu còn thời hạn sử dụng (đối với người nước ngoài, người Việt Nam định cư ở nước ngoài).</p>\r\n<p>- Khi đến đổi giấy phép lái xe, người lái xe được cơ quan cấp giấy phép lái xe chụp ảnh.</p>\r\n<p><strong>* Lệ phí</strong> cấp, đổi giấy phép lái xe PET/lần (Thông tư số: 73/2012/TT-BTC ngày 14/5/2012).</p>\r\n<p>- GPLX vật liệu PET/lần: <strong>135.000 đồng</strong></p>\r\n<p><strong>* Mới: </strong>được đổi giấy phép lái xe trên toàn quốc không phân biệt nơi đã cấp, quản lý trước đó.</p>",
+                        "image": "",
+                        "position": "0"
+                    }
+                ]
+            },
+            {
+                "id": "69",
+                "title": "CẤP LẠI GIẤY PHÉP LÁI XE DO QUÁ HẠN SỬ DỤNG",
+                "category_id": "12",
+                "type_id": "1",
+                "position": "4",
+                "type_name": "Text",
+                "content": [
+                    {
+                        "id": "874",
+                        "post_id": "69",
+                        "title": "Thông tư số: 58/2015/TT-BGTVT ngày 20/10/2015 của Bộ Giao thông vận tải",
+                        "detail": "<p><strong>Điều 48. Cấp lại giấy phép lái xe</strong></p>\r\n<p><strong>1. Người có giấy phép lái xe quá thời hạn sử dụng</strong></p>\r\n<p>a) Từ 03 tháng đến dưới 01 năm, kể từ ngày hết hạn, phải sát hạch lại lý thuyết để cấp lại giấy phép lái xe;</p>\r\n<p>b) Từ 01 năm trở lên, kể từ ngày hết hạn, phải sát hạch lại cả lý thuyết và thực hành để cấp lại giấy phép lái xe.</p>\r\n<p>Người lái xe lập 01 bộ hồ sơ gửi trực tiếp tại Tổng cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải. Hồ sơ bao gồm:</p>\r\n<p>- Đơn đề nghị đổi, cấp lại giấy phép lái xe theo mẫu quy định tại Phụ lục 27 ban hành kèm theo Thông tư này;</p>\r\n<p>- Bản sao giấy chứng minh nhân dân hoặc hộ chiếu còn thời hạn có ghi số giấy chứng minh nhân dân đối với người Việt Nam; hộ chiếu còn thời hạn đối với người nước ngoài, người Việt Nam định cư ở nước ngoài;</p>\r\n<p>- Giấy chứng nhận sức khỏe do cơ sở y tế có thẩm quyền cấp theo quy định;</p>\r\n<p>- 03 Ảnh màu 3x4 chụp kiểu chứng minh nhân dân không quá 6 tháng.</p>\r\n<p><strong>2. Người có giấy phép lái xe bị mất lần thứ nhất, còn thời hạn sử dụng hoặc quá thời hạn sử dụng dưới 03 tháng,</strong> có tên trong hồ sơ của cơ quan quản lý sát hạch, khi tra cứu vi phạm của người lái xe trong Hệ thống thông tin giấy phép lái xe, nếu không phát hiện đang bị các cơ quan có thẩm quyền thu giữ, xử lý, sau 02 tháng kể từ ngày nộp đủ hồ sơ theo quy định, được xét cấp lại giấy phép lái xe</p>\r\n<p>Người lái xe lập 01 bộ hồ sơ gửi trực tiếp tại Tổng cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải. Hồ sơ bao gồm:</p>\r\n<p>- Đơn đề nghị đổi, cấp lại giấy phép lái xe theo mẫu quy định tại Phụ lục 27 ban hành kèm theo Thông tư này;</p>\r\n<p>- Bản chính hồ sơ gốc phù hợp với giấy phép lái xe (nếu có);</p>\r\n<p>- Giấy chứng nhận sức khỏe do cơ sở y tế có thẩm quyền cấp theo quy định, trừ trường hợp cấp lại giấy phép lái xe không thời hạn các hạng A1, A2, A3;</p>\r\n<p>- Bản sao kèm theo bản chính để đối chiếu gồm: giấy chứng minh nhân dân (đối với người Việt Nam) hoặc hộ chiếu còn thời hạn sử dụng (đối với người nước ngoài, người Việt Nam định cư ở nước ngoài).</p>\r\n<p>- 03 Ảnh màu 3x4 chụp kiểu chứng minh nhân dân không quá 6 tháng.</p>\r\n<p>- Khi đến cấp lại giấy phép lái xe, người lái xe được cơ quan cấp giấy phép lái xe chụp ảnh.</p>\r\n<p><strong>3. Người có giấy phép lái xe bị mất lần thứ nhất, quá thời hạn sử dụng từ 03 tháng trở lên,</strong> có tên trong hồ sơ của cơ quan quản lý sát hạch, khi tra cứu vi phạm của người lái xe trong Hệ thống thông tin giấy phép lái xe, nếu không phát hiện đang bị các cơ quan có thẩm quyền thu giữ, xử lý, sau 02 tháng kể từ ngày nộp đủ hồ sơ hợp lệ theo quy định, phải dự sát hạch lại các nội dung:</p>\r\n<p>a) Quá từ sử dụng từ 03 tháng đến dưới 01 năm, phải dự sát hạch lại lý thuyết;</p>\r\n<p>b) Quá hạn sử dụng từ 01 năm trở lên, phải sát hạch lại cả lý thuyết và thực hành.</p>\r\n<p>Người lái xe lập 01 bộ hồ sơ, gửi trực tiếp tại Tổng cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải. Hồ sơ bao gồm:</p>\r\n<p>- Đơn đề nghị đổi, cấp lại giấy phép lái xe theo mẫu quy định tại Phụ lục 27 ban hành kèm theo Thông tư này có ghi ngày tiếp nhận hồ sơ của cơ quan tiếp nhận;</p>\r\n<p>- Giấy chứng nhận sức khỏe do cơ sở y tế có thẩm quyền cấp theo quy định;</p>\r\n<p>- Bản sao giấy chứng minh nhân dân hoặc hộ chiếu còn thời hạn có ghi số giấy chứng minh nhân dân đối với người Việt Nam; hộ chiếu còn thời hạn đối với người nước ngoài, người Việt Nam định cư ở nước ngoài;</p>\r\n<p>- Bản chính hồ sơ gốc của giấy phép lái xe bị mất (nếu có).</p>\r\n<p>- 03 Ảnh màu 3x4 chụp kiểu chứng minh nhân dân không quá 6 tháng.</p>\r\n<p><strong>4. Người có giấy phép lái xe bị mất lần thứ hai, nếu có nhu cầu cấp lại:</strong></p>\r\n<p>a) Trong thời hạn 02 năm, kể từ ngày cấp lại cho giấy phép lái xe bị mất lần thứ nhất; có tên trong hồ sơ của cơ quan quản lý sát hạch; khi tra cứu vi phạm của người lái xe trong Hệ thống thông tin giấy phép lái xe, không phát hiện đang bị các cơ quan có thẩm quyền thu giữ, xử lý; sau 02 tháng kể từ ngày nộp đủ hồ sơ hợp lệ theo quy định, phải sát hạch lại lý thuyết để cấp lại giấy phép lái xe;</p>\r\n<p>b) Trên 02 năm, kể từ ngày cấp lại cho giấy phép lái xe bị mất lần thứ nhất thì được xử lý cấp lại như mất lần thứ nhất.</p>\r\n<p>Người lái xe lập 01 bộ hồ sơ, gửi trực tiếp tại Tổng cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải. Hồ sơ bao gồm:</p>\r\n<p>- Đơn đề nghị đổi, cấp lại giấy phép lái xe theo mẫu quy định tại Phụ lục 27 ban hành kèm theo Thông tư này có ghi ngày tiếp nhận hồ sơ của cơ quan tiếp nhận;</p>\r\n<p>- Giấy chứng nhận sức khỏe do cơ sở y tế có thẩm quyền cấp theo quy định;</p>\r\n<p>- Bản sao giấy chứng minh nhân dân hoặc hộ chiếu còn thời hạn có ghi số giấy chứng minh nhân dân đối với người Việt Nam; hộ chiếu còn thời hạn đối với người nước ngoài, người Việt Nam định cư ở nước ngoài;</p>\r\n<p>- Bản chính hồ sơ gốc của giấy phép lái xe bị mất (nếu có).</p>\r\n<p>- 03 Ảnh màu 3x4 chụp kiểu chứng minh nhân dân không quá 6 tháng.</p>\r\n<p><strong>5. Người có giấy phép lái xe bị mất từ lần thứ ba trở lên, nếu có nhu cầu cấp lại:</strong></p>\r\n<p>a) Trong thời hạn 02 năm, kể từ ngày cấp lại cho giấy phép lái xe bị mất lần trước đó; có tên trong hồ sơ của cơ quan quản lý sát hạch; khi tra cứu vi phạm của người lái xe trong Hệ thống thông tin giấy phép lái xe, không phát hiện đang bị các cơ quan có thẩm quyền thu giữ, xử lý; sau 02 tháng kể từ ngày nộp đủ hồ sơ hợp lệ theo quy định, phải sát hạch lại cả lý thuyết và thực hành để cấp lại giấy phép lái xe;</p>\r\n<p>b) Trên 02 năm, kể từ ngày cấp lại cho giấy phép lái xe bị mất lần trước đó thì được xử lý cấp lại như mất lần thứ nhất.</p>\r\n<p>Người lái xe lập 01 bộ hồ sơ, gửi trực tiếp tại Tổng cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải. Hồ sơ bao gồm:</p>\r\n<p>- Đơn đề nghị đổi, cấp lại giấy phép lái xe theo mẫu quy định tại Phụ lục 27 ban hành kèm theo Thông tư này có ghi ngày tiếp nhận hồ sơ của cơ quan tiếp nhận;</p>\r\n<p>- Giấy chứng nhận sức khỏe do cơ sở y tế có thẩm quyền cấp theo quy định;</p>\r\n<p>- Bản sao giấy chứng minh nhân dân hoặc hộ chiếu còn thời hạn có ghi số giấy chứng minh nhân dân đối với người Việt Nam; hộ chiếu còn thời hạn đối với người nước ngoài, người Việt Nam định cư ở nước ngoài;</p>\r\n<p>- Bản chính hồ sơ gốc của giấy phép lái xe bị mất (nếu có).</p>\r\n<p>- 03 Ảnh màu 3x4 chụp kiểu chứng minh nhân dân không quá 6 tháng.</p>\r\n<p><strong>6. Ngày trúng tuyển</strong> ghi tại mặt sau giấy phép lái xe cấp lại (phục hồi), được tính theo ngày trúng tuyển của giấy phép lái xe cũ.</p>\r\n<p><strong>7. Thời gian cấp lại giấy phép lái xe thực hiện như đối với cấp mới.</strong></p>\r\n<p><strong>8. Người dự sát hạch lại</strong> có nhu cầu ôn tập, đăng ký với các cơ sở đào tạo lái xe để được hướng dẫn ôn tập, phải nộp phí ôn tập theo quy định, không phải học lại theo chương trình đào tạo.</p>\r\n<p><strong>9. Người có giấy phép lái xe còn thời hạn sử dụng, nhưng không còn hồ sơ gốc,</strong> có tên trong hồ sơ của cơ quan quản lý sát hạch, nếu có nhu cầu được lập lại hồ sơ gốc.</p>\r\n<p>Người lái xe lập 01 bộ hồ sơ, gửi trực tiếp tại Tổng cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải (nơi đã cấp giấy phép lái xe). Hồ sơ bao gồm:</p>\r\n<p>a) Đơn đề nghị đổi, cấp lại giấy phép lái xe theo mẫu quy định tại Phụ lục 27 ban hành kèm theo Thông tư này;</p>\r\n<p>b) Bản sao giấy phép lái xe, giấy chứng minh nhân dân hoặc hộ chiếu còn thời hạn.</p>\r\n<p>Cơ quan cấp giấy phép lái xe kiểm tra, xác nhận và đóng dấu, ghi rõ: số, hạng giấy phép lái xe được cấp, ngày sát hạch (nếu có), tên cơ sở đào tạo (nếu có) vào góc trên bên phải đơn đề nghị đổi, cấp lại giấy phép lái xe và trả cho người lái xe tự bảo quản để thay hồ sơ gốc.</p>\r\n<p><strong>* Ảnh 3x4 mang theo </strong>để dán vào các loại biểu mẫu (form) khi có yêu cầu như:</p>\r\n<p>- Mẫu đơn; Giấy Khám sức khỏe; thẻ học viên khi dự sát hạch lại ...</p>\r\n<p><strong>* Giấy khám sức khỏe chỉ có giá trị 06 tháng</strong> kể từ ngày ký Kết luận theo Thông tư liên tịch số 24/2015 ngày 21/8/2015 liên Bộ Y tế và Bộ Giao thông vận tải.</p>\r\n<p><strong>* Phí, lệ phí sát hạch ô tô </strong>(Thông tư số: 23/2013/TT-BTC ngày 27/02/2013).</p>\r\n<p>- Lý thuyết:<strong>     90.000 đồng</strong></p>\r\n<p>- Trong hình:<strong>  300.000 đồng</strong></p>\r\n<p>- Trên đường:<strong>  60.000 đồng</strong></p>\r\n<p><strong>* Lệ phí</strong> cấp, đổi giấy phép lái xe PET/lần (Thông tư số: 73/2012/TT-BTC ngày 14/5/2012).</p>\r\n<p>- GPLX vật liệu PET/lần: <strong>135.000 đồng</strong></p>\r\n<p><strong>* Mới: </strong>được cấp lại giấy phép lái xe trên toàn quốc không phân biệt nơi đã cấp, quản lý trước đó.</p>\r\n<p> </p>\r\n<p> </p>",
+                        "image": "",
+                        "position": "0"
+                    }
+                ]
+            },
+            {
+                "id": "77",
+                "title": "ĐỔI GIẤY PHÉP LÁI XE QUÂN SỰ DO BỘ QUỐC PHÒNG CẤP",
+                "category_id": "12",
+                "type_id": "1",
+                "position": "9",
+                "type_name": "Text",
+                "content": [
+                    {
+                        "id": "888",
+                        "post_id": "77",
+                        "title": "Thông tư số: 58/2015/TT-BGTVT ngày 20/10/2015 của Bộ Giao thông vận tải",
+                        "detail": "<p><strong>Điều 51. Hồ sơ đổi giấy phép lái xe quân sự do Bộ Quốc phòng cấp</strong></p>\r\n<p>Người lái xe lập 01 bộ hồ sơ, gửi trực tiếp tại Tổng cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải. Hồ sơ bao gồm:</p>\r\n<p>1. Đơn đề nghị đổi, cấp lại giấy phép lái xe theo mẫu quy định tại Phụ lục 27 ban hành kèm theo Thông tư này.</p>\r\n<p>2. Bản sao Quyết định ra quân trong thời hạn không quá 06 tháng tính từ ngày Thủ trưởng cấp trung đoàn trở lên ký kèm theo bản chính để đối chiếu.</p>\r\n<p>3. Giấy chứng nhận sức khỏe do cơ sở y tế có thẩm quyền cấp theo quy định, trừ trường hợp đổi giấy phép lái xe hạng A1, A2, A3.</p>\r\n<p>4. Giấy phép lái xe quân sự còn thời hạn sử dụng (bản chính).</p>\r\n<p>5. Bản sao giấy chứng minh nhân dân còn thời hạn kèm bản chính để đối chiếu.</p>\r\n<p>- Khi đến nộp hồ sơ, người lái xe được cơ quan cấp giấy phép lái xe chụp ảnh.</p>\r\n<p>* Hồ sơ đổi giấy phép lái xe quân sự là hồ sơ gốc gồm các tài liệu ghi ở khoản 1 và khoản 2 Điều này và giấy phép lái xe quân sự đã được cắt góc, giao cho người lái xe tự bảo quản.</p>\r\n<p><strong>* Lệ phí</strong> cấp, đổi giấy phép lái xe PET/lần (Thông tư số: 73/2012/TT-BTC ngày 14/5/2012).</p>\r\n<p>- GPLX vật liệu PET/lần: <strong>135.000 đồng</strong></p>",
+                        "image": "",
+                        "position": "0"
+                    }
+                ]
+            },
+            {
+                "id": "78",
+                "title": "ĐỔI GIẤY PHÉP LÁI XE DO BỘ CÔNG AN CẤP",
+                "category_id": "12",
+                "type_id": "1",
+                "position": "10",
+                "type_name": "Text",
+                "content": [
+                    {
+                        "id": "890",
+                        "post_id": "78",
+                        "title": "Thông tư số: 58/2015/TT-BGTVT ngày 20/10/2015 của Bộ Giao thông vận tải",
+                        "detail": "<p><strong>Điều 52. Hồ sơ đổi giấy phép lái xe do ngành Công an cấp</strong></p>\r\n<p><strong>1. Hồ sơ đổi giấy phép lái xe mô tô do ngành Công an cấp trước ngày 01 tháng 8 năm 1995</strong></p>\r\n<p>Người lái xe lập 01 bộ hồ sơ, gửi trực tiếp tại Tổng cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải. Hồ sơ bao gồm:</p>\r\n<p>a) Đơn đề nghị đổi, cấp lại giấy phép lái xe theo mẫu quy định tại Phụ lục 27 ban hành kèm theo Thông tư này;</p>\r\n<p>b) Bản sao kèm theo bản chính để đối chiếu gồm: giấy phép lái xe, giấy chứng minh nhân dân còn thời hạn sử dụng;</p>\r\n<p>c) Hồ sơ gốc (nếu có).</p>\r\n<p>- Khi đến nộp hồ sơ, người lái xe được cơ quan cấp giấy phép lái xe chụp ảnh.</p>\r\n<p><strong>2. Hồ sơ đổi giấy phép lái xe do ngành Công an cấp từ ngày 01 tháng 8 năm 1995.</strong></p>\r\n<p>Người lái xe lập 01 bộ hồ sơ, gửi trực tiếp tại Tổng cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải. Hồ sơ bao gồm:</p>\r\n<p>a) Đơn đề nghị đổi, cấp lại giấy phép lái xe theo mẫu quy định tại Phụ lục 27 ban hành kèm theo Thông tư này;</p>\r\n<p>b) Bản sao kèm bản chính để đối chiều gồm: Quyết định ra khỏi ngành hoặc nghỉ hưu của cấp có thẩm quyền, giấy chứng minh nhân dân còn thời hạn sử dụng;</p>\r\n<p>c) Giấy chứng nhận sức khỏe do cơ sở y tế có thẩm quyền cấp theo quy định, trừ trường hợp đổi giấy phép lái xe hạng A1, A2, A3;</p>\r\n<p>d) Bản chính giấy phép lái xe của ngành Công an cấp còn thời hạn sử dụng.</p>\r\n<p>- Khi đến nộp hồ sơ, người đổi giấy phép lái xe được cơ quan cấp giấy phép lái xe chụp ảnh.</p>\r\n<p>* Hồ sơ đổi giấy phép lái xe Công an là hồ sơ gốc, gồm tài liệu ghi ở điểm a và điểm b khoản 2 Điều này và giấy phép lái xe công an đã được cắt góc, giao cho người lái xe tự bảo quản.</p>\r\n<p><strong>* Lệ phí</strong> cấp, đổi giấy phép lái xe PET/lần (Thông tư số: 73/2012/TT-BTC ngày 14/5/2012).</p>\r\n<p>- GPLX vật liệu PET/lần: <strong>135.000 đồng</strong></p>",
+                        "image": "",
+                        "position": "0"
+                    }
+                ]
+            },
+            {
+                "id": "67",
+                "title": "ĐƠN ĐỀ NGHỊ ĐỔI, CẤP LẠI GIẤY PHÉP LÁI XE - PHỤ LỤC 27",
+                "category_id": "12",
+                "type_id": "4",
+                "position": "11",
+                "type_name": "PDF",
+                "content": [
+                    {
+                        "id": "872",
+                        "post_id": "67",
+                        "title": "ĐƠN ĐỀ NGHỊ ĐỔI, CẤP LẠI GIẤY PHÉP LÁI XE - PHỤ LỤC 27",
+                        "detail": "",
+                        "image": "cap_lai_giay_phep",
+                        "position": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "14",
+        "name": "Nước ngoài",
+        "parent_id": null,
+        "type_id": "1",
+        "version": "1",
+        "icon": "icon_main_quoc_te",
+        "position": "10",
+        "count": "7",
+        "type_name": "NhieuThongTin",
+        "small_topic": [
+            {
+                "id": "91",
+                "title": "ĐỔI BẰNG LÁI XE NƯỚC NGOÀI CẤP SANG VIỆT NAM",
+                "category_id": "14",
+                "type_id": "1",
+                "position": "1",
+                "type_name": "Text",
+                "content": [
+                    {
+                        "id": "909",
+                        "post_id": "91",
+                        "title": "Thông tư số: 58/2015/TT-BGTVT ngày 20/10/2015 của Bộ Giao thông vận tải",
+                        "detail": "<p><strong>Điều 49. Đổi giấy phép lái xe</strong></p>\r\n<p><strong>Khoản 5. Đối tượng được đổi giấy phép lái xe:</strong></p>\r\n<p>- Người nước ngoài được đào tạo, sát hạch, cấp giấy phép lái xe tại Việt Nam;</p>\r\n<p>- Người có giấy phép lái xe của ngành giao thông vận tải cấp bị hỏng;</p>\r\n<p>- Người nước ngoài định cư lâu dài ở Việt Nam đã có giấy phép lái xe Việt Nam đổi từ giấy phép lái xe nước ngoài, khi hết hạn nếu có nhu cầu được đổi giấy phép lái xe;</p>\r\n<p>- Người nước ngoài cư trú, làm việc, học tập tại Việt Nam với thời gian từ 03 tháng trở lên, có giấy phép lái xe quốc gia còn thời hạn sử dụng, nếu có nhu cầu lái xe ở Việt Nam được xét đổi sang giấy phép lái xe tương ứng của Việt Nam;</p>\r\n<p>- Khách du lịch nước ngoài lái xe đăng ký nước ngoài vào Việt Nam, có giấy phép lái xe quốc gia còn thời hạn sử dụng, nếu có nhu cầu lái xe ở Việt Nam được xét đổi sang giấy phép lái xe tương ứng của Việt Nam;</p>\r\n<p>- Người Việt Nam (mang quốc tịch Việt Nam) trong thời gian cư trú, học tập, làm việc ở nước ngoài được nước ngoài cấp giấy phép lái xe quốc gia, còn thời hạn sử dụng, nếu có nhu cầu lái xe ở Việt Nam được xét đổi sang giấy phép lái xe tương ứng của Việt Nam.</p>\r\n<p><strong>Khoản 6. Không đổi giấy phép lái xe đối với các trường hợp sau:</strong></p>\r\n<p>- Giấy phép lái xe tạm thời của nước ngoài; giấy phép lái xe quốc tế; giấy phép lái xe của nước ngoài quá thời hạn sử dụng theo quy định, bị tẩy xóa, rách nát không còn đủ các yếu tố cần thiết để đổi giấy phép lái xe hoặc có sự khác biệt về nhận dạng; giấy phép lái xe nước ngoài không do cơ quan có thẩm quyền cấp;</p>\r\n<p>- Giấy phép lái xe do ngành Giao thông vận tải cấp nhưng không có trong hệ thống thông tin giấy phép lái xe, bảng kê danh sách cấp giấp phép lái xe (sổ quản lý).</p>\r\n<p><strong>Khoản 7. Thời hạn sử dụng và hạng xe được phép điều khiển:</strong></p>\r\n<p>- Thời hạn sử dụng giấy phép lái xe Việt Nam đổi cho người nước ngoài phù hợp với thời hạn ghi trong thị thực nhập cảnh hoặc thẻ tạm trú, phù hợp với thời hạn sử dụng giấy phép lái xe nước ngoài nhưng không vượt quá thời hạn quy định của giấy phép lái xe Việt Nam;</p>\r\n<p>- Thời hạn sử dụng giấy phép lái xe Việt Nam đổi cho khách du lịch nước ngoài lái xe đăng ký nước ngoài vào Việt Nam phù hợp với thời gian du lịch ở Việt Nam (từ khi nhập cảnh đến khi xuất cảnh) nhưng không vượt quá thời hạn quy định của giấy phép lái xe Việt Nam;</p>\r\n<p>- Đối với khách du lịch nước ngoài lái xe vào Việt Nam chưa có điều kiện xuất trình hộ chiếu và giấy phép lái xe nước ngoài, khi đổi giấy phép lái xe có thể căn cứ vào danh sách xuất nhập cảnh của Bộ Công an và bản dịch giấy phép lái xe (kèm theo bản sao giấy phép lái xe nước ngoài), làm sẵn giấy phép lái xe cho số người đăng ký. Giấy phép lái xe chỉ được cấp cho những người thực sự vào Việt Nam sau khi đối chiếu giấy phép lái xe nước ngoài và hộ chiếu;</p>\r\n<p>- Giấy phép lái xe quốc gia cấp cho người đổi được điều khiển nhiều hạng xe khác nhau được đổi sang giấy phép lái xe để điều khiển các hạng xe tương ứng của Việt Nam.</p>\r\n<p><strong>Khoản 8. Thời gian đổi giấy phép lái xe:</strong></p>\r\n<p>- Không quá 05 ngày làm việc, kể từ khi nhận đủ hồ sơ hợp lệ theo quy định;</p>\r\n<p>- Khi đổi giấy phép lái xe, cơ quan cấp giấy phép lái xe cắt góc giấy phép lái xe cũ (trừ giấy phép lái xe do nước ngoài cấp).</p>\r\n<p><strong>Điều 53. Hồ sơ đổi giấy phép lái xe hoặc bằng lái xe của nước ngoài</strong></p>\r\n<p>1. Người lái xe lập 01 bộ hồ sơ, gửi trực tiếp tại Tổng cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải (nơi đăng ký cư trú, lưu trú, tạm trú hoặc định cư lâu dài). Hồ sơ bao gồm:</p>\r\n<p>a) Đơn đề nghị đổi, cấp lại giấy phép lái xe (đối với người Việt Nam theo mẫu quy định tại Phụ lục 27 ban hành kèm theo Thông tư này; đối với người nước ngoài theo mẫu quy định tại Phụ lục 28 ban hành kèm theo Thông tư này);</p>\r\n<p>b) Bản dịch giấy phép lái xe nước ngoài ra tiếng Việt được bảo chứng chất lượng dịch thuật của cơ quan Công chứng hoặc Đại sứ quán, Lãnh sự quán tại Việt Nam mà người dịch làm việc, đóng dấu giáp lai với bản sao giấy phép lái xe; trường hợp phát hiện có nghi vấn, cơ quan cấp đổi giấy phép lái xe có văn bản đề nghị Đại sứ quán, Lãnh sự quán của quốc gia cấp giấy phép lái xe tại Việt Nam xác minh;</p>\r\n<p>c) Bản sao kèm theo bản chính để đối chiếu, bao gồm: hộ chiếu (phần số hộ chiếu, họ tên và ảnh người được cấp, thời hạn sử dụng và trang thị thực nhập cảnh vào Việt Nam), bản sao giấy chứng minh nhân dân, giấy chứng minh thư ngoại giao hoặc công vụ do Bộ Ngoại giao Việt Nam cấp hoặc bản sao thẻ cư trú, thẻ lưu trú, thẻ tạm trú, thẻ thường trú, giấy tờ xác minh định cư lâu dài tại Việt Nam đối với người nước ngoài.</p>\r\n<p>- Khi đến đổi giấy phép lái xe, người lái xe được cơ quan cấp giấy phép lái xe chụp ảnh.</p>\r\n<p>2. Hồ sơ đổi giấy phép lái xe do cơ quan đổi giấy phép lái xe giao cho người lái xe quản lý là hồ sơ gốc, gồm các tài liệu quy định tại khoản 1 Điều này và giấy phép lái xe nước ngoài.</p>\r\n<p><strong>Điều 54. Hồ sơ đổi giấy phép lái xe hoặc bằng lái xe của nước ngoài cấp cho khách du lịch nước ngoài lái xe vào Việt Nam</strong></p>\r\n<p>1. Người có nhu cầu lập 01 bộ hồ sơ, gửi trực tiếp hoặc qua đường bưu chính đến Sở Giao thông vận tải. Hồ sơ bao gồm:</p>\r\n<p>a) Đơn đề nghị đổi giấy phép lái xe theo mẫu quy định tại Phụ lục 28 ban hành kèm theo Thông tư này;</p>\r\n<p>b) Bản dịch giấy phép lái xe nước ngoài ra tiếng Việt được bảo chứng chất lượng dịch thuật của cơ quan công chứng hoặc Đại sứ quán, Lãnh sự quán tại Việt Nam mà người dịch làm việc, đóng dấu giáp lai với bản sao giấy phép lái xe; trường hợp phát hiện có nghi vấn, cơ quan cấp đổi giấy phép lái xe có văn bản đề nghị Đại sứ quán, Lãnh sự quán của quốc gia cấp giấy phép lái xe tại Việt Nam xác minh;</p>\r\n<p>c) Bản sao có chứng thực danh sách xuất nhập cảnh của Bộ Công an hoặc bản sao hộ chiếu gồm phần số hộ chiếu, họ tên và ảnh người được cấp, thời hạn sử dụng và trang thị thực nhập cảnh vào Việt Nam;</p>\r\n<p>d) 01 ảnh màu cỡ 3 cm x 4 cm nền ảnh màu xanh, kiểu chứng minh nhân dân.</p>\r\n<p>Khi đến nhận giấy phép lái xe, người lái xe xuất trình hộ chiếu còn thời hạn và giấy phép lái xe nước ngoài để đối chiếu.</p>\r\n<p>2. Cơ quan quản lý cấp giấy phép lái xe phải ghi vào hồ sơ quản lý là giấy phép lái xe đổi 01 lần.</p>\r\n<p><strong>* Lệ phí</strong> cấp, đổi giấy phép lái xe PET/lần (Thông tư số: 73/2012/TT-BTC ngày 14/5/2012).</p>\r\n<p>- GPLX vật liệu PET/lần: <strong>135.000 đồng</strong></p>",
+                        "image": "",
+                        "position": "0"
+                    }
+                ]
+            },
+            {
+                "id": "96",
+                "title": "ĐỔI GIẤY PHÉP LÁI XE QUỐC TẾ IDP",
+                "category_id": "14",
+                "type_id": "1",
+                "position": "2",
+                "type_name": "Text",
+                "content": [
+                    {
+                        "id": "918",
+                        "post_id": "96",
+                        "title": "Thông tư số: 29/2015/TT-BGTVT ngày 06/7/2015 của Bộ Giao thông vận tải",
+                        "detail": "<p><strong>Điều 3. Giải thích từ ng</strong><strong>ữ</strong></p>\r\n<p>Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:</p>\r\n<p>1. Giấy phép lái xe quốc tế là giấy phép lái xe do cơ quan nhà nước có thẩm quyền của các nước (bao gồm cả khu vực hành chính) tham gia Công ước Viên cấp theo một mẫu thống nhất.</p>\r\n<p>2. Giấy phép lái xe quốc tế có tên tiếng Anh là International Driving Permit, sau đây gọi tắt là IDP.</p>\r\n<p>3. Giấy phép lái xe quốc gia là giấy phép lái xe do cơ quan có thẩm quyền của các nước cấp, có giá trị trên lãnh thổ nước đó.</p>\r\n<p>4. Hồ sơ điện tử giấy phép lái xe quốc tế là tập hợp các tài liệu điện tử liên quan đến cấp IDP.</p>\r\n<p><strong>Điều 4. Mẫu giấy phép lái xe quốc tế</strong></p>\r\n<p>1. IDP là một quyển sổ có kích thước A6 (148 mm x 105 mm), có ký hiệu bảo mật, bìa màu xám, những trang giấy bên trong màu trắng theo mẫu quy định tại Phụ lục I ban hành kèm theo Thông tư này.</p>\r\n<p>2. Trang 1 (trang bìa) ghi thông tin cơ bản của IDP được in song ngữ tiếng Việt và tiếng Anh; trang 2 quy định về phạm vi sử dụng IDP in song ngữ tiếng Việt và tiếng Anh, trang 3 quy định phần khai về người lái xe và phân hạng IDP in bằng tiếng Việt, trang 4 để trống, trang 5 quy định phần khai về người lái xe và phân hạng IDP in bằng tiếng Anh, trang 6 quy định phần khai về người lái xe và phân hạng IDP in bằng tiếng Nga, trang 7 quy định phần khai về người lái xe và phân hạng IDP in bằng tiếng Tây Ban Nha, trang 8 quy định phần khai về người lái xe và phân hạng IDP in bằng tiếng Pháp, trang 9 quy định hạng xe được điều khiển in bằng tiếng Pháp.</p>\r\n<p>3. Số IDP gồm ký hiệu phân biệt quốc gia của Việt Nam đối với giao thông quốc tế là VN và 12 chữ số sau là số giấy phép lái xe quốc gia.</p>\r\n<p><strong>Điều 5. Thời hạn và hạng xe điều khiển của giấy phép lái xe quốc tế</strong></p>\r\n<p>1. IDP có thời hạn không quá 03 năm, kể từ ngày cấp và phải phù hợp với thời hạn còn hiệu lực của giấy phép lái xe quốc gia.</p>\r\n<p>2. Hạng xe được phép điều khiển của IDP tương ứng với các hạng xe của giấy phép lái xe quốc gia do Việt Nam cấp quy định tại Phụ lục II ban hành kèm theo Thông tư này.</p>\r\n<p><strong>Điều 6. Đối tượng được cấp giấy phép lái xe quốc tế</strong></p>\r\n<p>Người Việt Nam, người nước ngoài có thẻ thường trú tại Việt Nam, có giấy phép lái xe quốc gia do Việt Nam cấp bằng vật liệu <strong>PET.</strong> còn giá trị sử dụng.</p>\r\n<p><strong>Điều 7. Trách nhiệm cấp và quản lý giấy phép lái xe quốc tế</strong></p>\r\n<p>1. Tổng cục Đường bộ Việt Nam quản lý việc cấp IDP thống nhất trong phạm vi toàn quốc, có trách nhiệm sau đây:</p>\r\n<p>a) Thiết kế tính năng bảo mật của phôi ấn chỉ IDP; tổ chức in, phát hành, hướng dẫn và quản lý việc sử dụng phôi ấn chỉ IDP trong toàn quốc;</p>\r\n<p>b) Xây dựng hệ thống thông tin quản lý IDP;</p>\r\n<p>c) Công bố, cập nhật danh sách các nước tham gia Công ước Viên hàng năm theo thông báo chính thức của Liên hợp quốc trên Trang Thông tin điện tử của Tổng cục Đường bộ Việt Nam;</p>\r\n<p>d) Xây dựng, ban hành danh mục các trang thiết bị phục vụ cho công tác cấp IDP;</p>\r\n<p>đ) Chỉ đạo các Sở Giao thông vận tải đáp ứng đủ điều kiện quy định tại điểm a khoản 2 Điều này tổ chức triển khai thực hiện cấp IDP;</p>\r\n<p>e) Công bố và thực hiện cập nhật danh sách các Sở Giao thông vận tải cấp IDP;</p>\r\n<p>g) Đảm bảo các trang thiết bị theo đúng quy định tại điểm d khoản 1 Điều này;</p>\r\n<p>h) Tiếp nhận, chịu trách nhiệm về tính chính xác, hợp pháp của hồ sơ cấp IDP và thực hiện việc cấp IDP theo đúng quy định.</p>\r\n<p>2. Sở Giao thông vận tải thực hiện việc cấp, quản lý IDP tại địa phương, có trách nhiệm sau đây:</p>\r\n<p>a) Đảm bảo các trang thiết bị theo đúng quy định tại điểm d khoản 1 Điều này;</p>\r\n<p>b) Tiếp nhận, chịu trách nhiệm về tính chính xác, hợp pháp của hồ sơ cấp IDP và thực hiện việc cấp IDP theo đúng quy định;</p>\r\n<p>c) Hàng năm (trước ngày 05 tháng 01 của năm sau), tổng hợp kết quả cấp IDP theo mẫu quy định tại Phụ lục III ban hành kèm theo Thông tư này, gửi Tổng cục Đường bộ Việt Nam để tổng hợp, báo cáo Bộ Giao thông vận tải.</p>\r\n<p><strong>Điều 8. Thủ tục cấp giấy phép lái xe quốc tế</strong></p>\r\n<p>1. Cá nhân nộp đơn đề nghị cấp IDP theo mẫu quy định tại Phụ lục IV ban hành kèm theo Thông tư này. Khi nộp đơn phải xuất trình bản chính giấy phép lái xe quốc gia do Việt Nam cấp, hộ chiếu, thẻ thường trú (đối với người nước ngoài) còn giá trị để kiểm tra, đối chiếu.</p>\r\n<p>2. Trình tự cấp IDP</p>\r\n<p>a) Cá nhân nộp đơn đề nghị cấp IDP theo quy định tại khoản 1 Điều này trực tiếp tại Tổng cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải để thực hiện kiểm tra tính chính xác và hợp pháp của việc cấp IDP. Trường hợp đơn đề nghị không đúng theo quy định thì hướng dẫn thực hiện ngay khi tiếp nhận;</p>\r\n<p>b) Trong thời hạn không quá 05 ngày làm việc, kể từ ngày nhận được đơn đề nghị cấp IDP, Tổng cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải thực hiện việc cấp IDP cho cá nhân; trường hợp không cấp IDP thì phải trả lời và nêu rõ lý do.</p>\r\n<p>3. Trường hợp IDP bị mất hoặc hư hỏng, cá nhân lập đơn đề nghị cấp lại theo quy định tại khoản 1 Điều này.</p>\r\n<p>4. Không cấp IDP đối với các trường hợp sau đây:</p>\r\n<p>a) Giấy phép lái xe quốc gia bị tẩy xóa, hư hỏng không còn đủ các thông tin cần thiết hoặc có sự khác biệt về nhận dạng;</p>\r\n<p>b) Giấy phép lái xe quốc gia không do cơ quan có thẩm quyền cấp theo quy định.</p>\r\n<p>5. Trường hợp phát hiện cá nhân có hành vi gian dối để được cấp IDP, tẩy xóa hoặc làm sai lệch thông tin trên IDP được cấp, ngoài việc bị cơ quan cấp IDP ra quyết định thu hồi IDP, cá nhân đó còn phải chịu trách nhiệm trước pháp luật và không được cấp IDP trong thời hạn 03 năm, kể từ ngày bị phát hiện hành vi vi phạm.</p>\r\n<p><strong>Điều 9. Quy trình cấp, quản lý giấy phép lái xe quốc tế</strong></p>\r\n<p>1. Sở Giao thông vận tải</p>\r\n<p>a) Tiếp nhận đơn đề nghị cấp IDP và sử dụng hệ thống thông tin quản lý IDP do Tổng cục Đường bộ Việt Nam xây dựng để lập hồ sơ điện tử;</p>\r\n<p>b) Sao chụp hộ chiếu, thẻ thường trú (đối với người nước ngoài) để kiểm tra, đối chiếu trong quá trình thực hiện cấp IDP;</p>\r\n<p>c) Kiểm tra, cập nhật, xác thực hồ sơ điện tử vào hệ thống thông tin quản lý IDP;</p>\r\n<p>d) Xác thực chữ ký số của người có thẩm quyền ký trên các hồ sơ điện tử cấp IDP;</p>\r\n<p>đ) Thực hiện quy trình in IDP;</p>\r\n<p>e) Kiểm tra chất lượng IDP sau khi in và đồng bộ dữ liệu vào hệ thống thông tin quản lý IDP của Tổng cục Đường bộ Việt Nam theo quy định.</p>\r\n<p>2. Tổng cục Đường bộ Việt Nam</p>\r\n<p>a) Tiếp nhận, quản lý dữ liệu IDP đã được cập nhật từ các Sở Giao thông vận tải để đồng bộ vào dữ liệu hệ thống thông tin quản lý IDP;</p>\r\n<p>b) Cập nhật, vận hành hệ thống thông tin quản lý IDP theo quy định;</p>\r\n<p>c) Trường hợp tiếp nhận đơn đề nghị cấp IDP của cá nhân, thì thực hiện như quy trình tại khoản 1 Điều này.</p>\r\n<p><strong>Điều 10. Sử dụng giấy phép lái xe quốc tế do Việt Nam cấp</strong></p>\r\n<p>1. Người có IDP do Việt Nam cấp khi điều khiển phương tiện cơ giới tham gia giao thông trên lãnh thổ nước tham gia Công ước Viên phải mang theo IDP và giấy phép lái xe quốc gia; tuân thủ pháp luật giao thông đường bộ của nước sở tại.</p>\r\n<p>2. IDP do Việt Nam cấp không có giá trị sử dụng trong lãnh thổ Việt Nam.</p>\r\n<p><strong>Điều 11. Sử dụng giấy phép lái xe quốc tế do các nước tham gia Công </strong><strong>ước</strong><strong> Viên cấp tại Việt Nam</strong></p>\r\n<p>1. Người có IDP do các nước tham gia Công ước Viên cấp khi điều khiển phương tiện giao thông cơ giới đường bộ trên lãnh thổ Việt Nam phải mang theo IDP và giấy phép lái xe quốc gia được cấp phù hợp với hạng xe điều khiển; phải tuân thủ pháp luật giao thông đường bộ của Việt Nam.</p>\r\n<p>2. Người có IDP vi phạm pháp luật về giao thông đường bộ Việt Nam mà bị tước quyền sử dụng IDP có thời hạn thì thời hạn bị tước không quá thời gian người lái xe được phép cư trú tại lãnh thổ Việt Nam.</p>\r\n<p><strong>Điều 12. Hiệu lực thi hành</strong></p>\r\n<p>Thông tư này có hiệu lực kể từ ngày 01 tháng 10 năm 2015.</p>\r\n<p><strong>* Lệ phí</strong> cấp, đổi giấy phép lái xe IDP/lần thực hiện như GPLX vật liệu PET (Thông tư số: 73/2012/TT-BTC ngày 14/5/2012).</p>\r\n<p>- GPLX vật liệu IDP/lần: <strong>135.000 đồng</strong></p>",
+                        "image": "",
+                        "position": "0"
+                    }
+                ]
+            },
+            {
+                "id": "97",
+                "title": "DANH SÁCH QUỐC GIA THAM GIA CÔNG ƯỚC VIÊN 1968",
+                "category_id": "14",
+                "type_id": "1",
+                "position": "3",
+                "type_name": "Text",
+                "content": [
+                    {
+                        "id": "919",
+                        "post_id": "97",
+                        "title": "DANH SÁCH",
+                        "detail": "<p><strong>DANH SÁCH 73 NƯỚC THAM GIA CÔNG ƯỚC VIÊN 1968 -</strong><strong> Văn bản số 299 ngày 19 tháng 01 năm 2016 của Tổng cục ĐBVN.</strong></p>\r\n<p><strong>1. Republic of Albania                                  </strong></p>\r\n<p><strong>2. Republic of Armenia                                 </strong></p>\r\n<p><strong>3. Republic of Austria                                  </strong></p>\r\n<p><strong>4. Republic of Azerbaijan                           </strong></p>\r\n<p><strong>5. Commonwealth of Bahamas                                </strong></p>\r\n<p><strong>6. Kingdom of Bahrain                                 </strong></p>\r\n<p><strong>7. Republic of Belarus                                </strong></p>\r\n<p><strong>8. Kingdom of Belgium                                 </strong></p>\r\n<p><strong>9. Bosnia and Herzegovina     </strong></p>\r\n<p><strong>10. Federative Republic of Brazil</strong></p>\r\n<p><strong>11. Republic of Bulgaria                               </strong></p>\r\n<p><strong>12. Central African Republic  </strong></p>\r\n<p><strong>13. Republic of Côte d'Ivoire                       </strong></p>\r\n<p><strong>14. Republic of Croatia                                 </strong></p>\r\n<p><strong>15. Republic of Cuba                                    </strong></p>\r\n<p><strong>16. Czech Republic                   </strong></p>\r\n<p><strong>17. Democratic Republic of Congo</strong></p>\r\n<p><strong>18. Kingdom of Denmark                           </strong></p>\r\n<p><strong>19. Republic of Estonia                             </strong></p>\r\n<p><strong>20. Republic of Finland                               </strong></p>\r\n<p><strong>21. Republic of France                              </strong></p>\r\n<p><strong>22. Georgia                              </strong></p>\r\n<p><strong>23. Federal Republic of Germany                           </strong></p>\r\n<p><strong>24. Greece ( Hellenic ) Republic           </strong></p>\r\n<p><strong>25. Co-operative Republic of Guyana</strong></p>\r\n<p><strong>26. Hungary                           </strong></p>\r\n<p><strong>27. Islamic Republic of Iran</strong></p>\r\n<p><strong>28. State of Israel                               </strong></p>\r\n<p><strong>29. Republic of Italy                                </strong></p>\r\n<p><strong>30. Republic of Kazakhstan                    </strong></p>\r\n<p><strong>31. Republic of Kenya                              </strong></p>\r\n<p><strong>32. State of Kuwait                              </strong></p>\r\n<p><strong>33. Republic of Kyrgyzstan                      </strong></p>\r\n<p><strong>34. Republic of Latvia                               </strong></p>\r\n<p><strong>35. Republic of Liberia                             </strong></p>\r\n<p><strong>36. Republic of Lithuania                         </strong></p>\r\n<p><strong>37. Grand Duchy of Luxembourg</strong></p>\r\n<p><strong>38. Duchy of Monaco</strong></p>\r\n<p><strong>39. Mongolia</strong></p>\r\n<p><strong>40. Montenegro</strong></p>\r\n<p><strong>41. Kingdom of Morocco</strong></p>\r\n<p><strong>42. Kingdom of Netherlands </strong></p>\r\n<p><strong>43. Republic of Niger</strong></p>\r\n<p><strong>44. Kingdom of Norway</strong></p>\r\n<p><strong>45. Islamic Republic of Pakistan</strong></p>\r\n<p><strong>46. Republic of Peru</strong></p>\r\n<p><strong>47. Republic of the Philippines</strong></p>\r\n<p><strong>48. Republic of Poland</strong></p>\r\n<p><strong>49. Republic of Portugal</strong></p>\r\n<p><strong>50. State of Qatar</strong></p>\r\n<p><strong>51. Republic of Moldova</strong></p>\r\n<p><strong>52. Romania</strong></p>\r\n<p><strong>53. Russian Federation</strong></p>\r\n<p><strong>54. Republic of San Marino</strong></p>\r\n<p><strong>55. Republic of Senegal</strong></p>\r\n<p><strong>56. Republic of Serbia </strong></p>\r\n<p><strong>57. Republic of Seychelles</strong></p>\r\n<p><strong>58. Slovak Republic</strong></p>\r\n<p><strong>59. Republic of Slovenia</strong></p>\r\n<p><strong>60. Republic of South Africa</strong></p>\r\n<p><strong>61. Sweden</strong></p>\r\n<p><strong>62. Confederation of Switzerland</strong></p>\r\n<p><strong>63. Republic of Tajikistan</strong></p>\r\n<p><strong>64. Republic of Macedonia</strong></p>\r\n<p><strong>65. Republic of Tunisia</strong></p>\r\n<p><strong>66. Republic of Turkey</strong></p>\r\n<p><strong>67. Turkmenistan</strong></p>\r\n<p><strong>68. Ukraine</strong></p>\r\n<p><strong>69. United Arab Emirates </strong></p>\r\n<p><strong>70. Republic of Uruguay</strong></p>\r\n<p><strong>71. Republic of Uzbekistan</strong></p>\r\n<p><strong>72. Socialist Republic of Viet Nam</strong></p>\r\n<p><strong>73. Republic of Zimbabwe</strong></p>\r\n<p> </p>\r\n<p> </p>\r\n<p> </p>",
+                        "image": "",
+                        "position": "0"
+                    }
+                ]
+            },
+            {
+                "id": "92",
+                "title": "MẪU GIẤY PHÉP LÁI XE QUỐC TẾ ( IDP ) & PHỤ LỤC II ( BẢNG CHUYỂN ĐỔI GPLX )",
+                "category_id": "14",
+                "type_id": "4",
+                "position": "7",
+                "type_name": "PDF",
+                "content": [
+                    {
+                        "id": "910",
+                        "post_id": "92",
+                        "title": "GIẤY PHÉP LÁI XE QUỐC TẾ",
+                        "detail": "",
+                        "image": "gplx_quoc_te",
+                        "position": "0"
+                    }
+                ]
+            },
+            {
+                "id": "88",
+                "title": " ĐƠN ĐỀ NGHỊ ĐỔI ĐỂ CẤP GIẤY PHÉP LÁI XE - PHỤ LỤC 27",
+                "category_id": "14",
+                "type_id": "4",
+                "position": "9",
+                "type_name": "PDF",
+                "content": [
+                    {
+                        "id": "906",
+                        "post_id": "88",
+                        "title": "ĐƠN ĐỀ NGHỊ ĐỔI GIẤY PHÉP LÁI XE - PHỤ LỤC 27",
+                        "detail": "",
+                        "image": "cap_lai_giay_phep",
+                        "position": "0"
+                    }
+                ]
+            },
+            {
+                "id": "116",
+                "title": "ĐƠN ĐỀ NGHỊ ĐỔI GIẤY PHÉP LÁI XE NGƯỜI NƯỚC NGOÀI - PHỤ LỤC 28",
+                "category_id": "14",
+                "type_id": "4",
+                "position": "10",
+                "type_name": "PDF",
+                "content": [
+                    {
+                        "id": "997",
+                        "post_id": "116",
+                        "title": "ĐƠN ĐỀ NGHỊ ĐỔI GIẤY PHÉP LÁI XE CƠ GIỚI ĐƯỜNG BỘ",
+                        "detail": "",
+                        "image": "don_doi_gplx",
+                        "position": "0"
+                    }
+                ]
+            },
+            {
+                "id": "117",
+                "title": "ĐƠN ĐỀ NGHỊ CẤP GIẤY PHÉP LÁI XE QUỐC TẾ - IDP",
+                "category_id": "14",
+                "type_id": "4",
+                "position": "11",
+                "type_name": "PDF",
+                "content": [
+                    {
+                        "id": "998",
+                        "post_id": "117",
+                        "title": "ĐƠN ĐỀ NGHỊ CẤP GIẤY PHÉP LÁI XE QUỐC TẾ",
+                        "detail": "",
+                        "image": "don_cap_gplx_quoc_te",
+                        "position": "0"
+                    }
+                ]
+            }
+        ]
+    }
 ]
